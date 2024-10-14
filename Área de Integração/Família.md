@@ -1,0 +1,1 @@
+Família é uma instituição social dado que representa um grupo de indivíduos ligados por laços de sangue entre si e que habitam sobre o mesmo teto.

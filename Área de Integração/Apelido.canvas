@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6bc4e9952c062a0a","type":"file","file":"Área de Integração/Apelido.md","x":-360,"y":-300,"width":180,"height":60},
+		{"id":"bc0c2301ae2fb0f1","type":"text","text":"último nome da mãe","x":-574,"y":-174,"width":250,"height":60},
+		{"id":"838663e4b7020184","type":"text","text":".+\n.","x":-305,"y":-175,"width":71,"height":63,"color":"3"},
+		{"id":"da6f4332b12ee6ff","type":"text","text":"último nome do pai","x":-213,"y":-174,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"02642ba966b63d62","fromNode":"6bc4e9952c062a0a","fromSide":"bottom","toNode":"bc0c2301ae2fb0f1","toSide":"top"},
+		{"id":"ac90468880d432d2","fromNode":"6bc4e9952c062a0a","fromSide":"bottom","toNode":"838663e4b7020184","toSide":"top"},
+		{"id":"349b78c11b4278bc","fromNode":"6bc4e9952c062a0a","fromSide":"bottom","toNode":"da6f4332b12ee6ff","toSide":"top"}
+	]
+}

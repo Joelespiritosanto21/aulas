@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9720f17ab94313f8","x":-514,"y":97,"width":250,"height":60,"type":"text","text":"Filhos Biológicos"},
+		{"id":"a59a4938e8c92a84","x":-245,"y":97,"width":250,"height":60,"type":"text","text":"Filhos de Acolhimento"},
+		{"id":"289a3e56cbe24544","x":20,"y":97,"width":250,"height":60,"type":"text","text":"Filhos Adotivos"},
+		{"id":"a1892ed0b1ab5c1d","x":-320,"y":-200,"width":400,"height":200,"type":"file","file":"Área de Integração/Parentesco.md"}
+	],
+	"edges":[
+		{"id":"46cdd7e200c35923","fromNode":"a1892ed0b1ab5c1d","fromSide":"bottom","toNode":"9720f17ab94313f8","toSide":"top"},
+		{"id":"843e0ff2c5dd0a83","fromNode":"a1892ed0b1ab5c1d","fromSide":"bottom","toNode":"289a3e56cbe24544","toSide":"top"},
+		{"id":"fc6e0c5bee2c6782","fromNode":"a1892ed0b1ab5c1d","fromSide":"bottom","toNode":"a59a4938e8c92a84","toSide":"top"}
+	]
+}
