@@ -1,6 +1,5 @@
 ---
-tags:
-  - lição
+tags: [lição]
 data: 2024-10-08
 2-hours: false
 ---
