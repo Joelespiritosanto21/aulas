@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "5fd36bd09b1cc243",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd457c09dc6ce1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f763364ccb675b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Lição 14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00460eb803bb93ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "87eeed9b1207c5e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f00a803fd200fc2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa687c3fc3da88c4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbef5510fa2afc22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "98523fca484abf92",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275
+  },
+  "right": {
+    "id": "dc16f7b76adf9584",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5bce5c705907df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "becda90496dc8bbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Português/Lição 14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a95034e7c8d2b7f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Português/Lição 14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bc29ed72e8227a3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f14de1f9f685e4e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Português/Lição 14.md"
+              }
+            }
+          },
+          {
+            "id": "f3fc8d7d7fd97a3f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "30ebaa30f5e3fb5c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd9d5af4771c149b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "f14de1f9f685e4e9",
+  "lastOpenFiles": [
+    "Português/Lição 14.md",
+    "Português/Lição 12 e 13.md",
+    "Inglês/Lição 14 e 15.md",
+    "Inglês/Lição 10 e 11.md",
+    "Inglês/Lição 12 e 13.md",
+    "Português/Amor-Perdicao.pdf",
+    "Português/Biografia de Simão.md",
+    "Português/Lição 11.md",
+    "Português/Texto Exemplo.md",
+    "Português/Apreciação Crítica.md",
+    "Português/Lição 9 e 10.md",
+    "Matemática/Lição 11 e 12.md",
+    "Inglês/Exercises pag. 68.md",
+    "Português/Exercício pag. 157.md",
+    "Português/Exercícios pág. 152.md",
+    "Português/Lição 8.md",
+    "Física e Química/Correção da ficha de trabalho.md",
+    "Física e Química/Espectro Eletromagnético.md",
+    "Física e Química/Difração da Luz.md",
+    "Física e Química/Lição 10.md",
+    "Inglês/Part-time jobs.md",
+    "Inglês/Lição 9.md",
+    "Inglês/Lição 7 e 8.md",
+    "Área de Integração/Lição 4 e 5.md",
+    "Matemática/Exercícios lição 9 e 10.md",
+    "Matemática/Lição 9 e 10.md",
+    "Português/Exercícios.md",
+    "Matemática/anexos/Pasted image 20241001101101.png",
+    "Matemática/anexos/Pasted image 20241001100448.png",
+    "Matemática/anexos/Pasted image 20241001085938.png",
+    "Matemática/anexos/Pasted image 20241001085037.png",
+    "Área de Integração/Apelido.canvas",
+    "Área de Integração/Parentesco.canvas",
+    "Área de Integração/Nuvem de palavras sobre a família.canvas",
+    "Matemática/anexos/WhatsApp Image 2024-09-24 at 10.15.17.jpeg",
+    "Matemática/anexos/WhatsApp Image 2024-09-24 at 10.13.26.jpeg",
+    "Matemática/anexos/Pasted image 20240924101354.png",
+    "Matemática/anexos/Pasted image 20240919143855.png",
+    "Matemática/anexos/Pasted image 20240919143852.png",
+    "Matemática/anexos/Pasted image 20240919151934.png",
+    "Matemática/anexos/Pasted image 20240919143855.png.download",
+    "Untitled.canvas",
+    "Português/Tipos de texto.canvas",
+    "SIBD/Evolução dos Sistemas.canvas",
+    "So",
+    "Inglês/Teenagers References.canvas",
+    "Matemática/anexos",
+    "SIBD/Noção de Sistemas.canvas",
+    "Matemática",
+    "Arquitetura de Computadores",
+    "Excalidraw",
+    "Templates",
+    "SIBD",
+    "Inglês/Sem título"
+  ]
+}

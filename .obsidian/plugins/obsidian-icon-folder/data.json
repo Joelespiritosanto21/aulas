@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiGraduationCap",
+      "LiCog",
+      "LiCalculator",
+      "🔢",
+      "🖥"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "(Lição|Lesson|Lessons|Lições) \\d+",
+        "icon": "LiGraduationCap",
+        "for": "files",
+        "order": 0
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Português": "🇵🇹",
+  "SIBD": "LiDatabase",
+  "Excalidraw": "LiPencilLine",
+  "Área de Integração": "🫂",
+  "Física e Química": "🍎",
+  "Inglês": "🇺🇸",
+  "Imagens": "LiImage",
+  "Templates": "LiTextSelect",
+  "Arquitetura de Computadores": "🖥",
+  "Matemática": "LiCalculator",
+  "SIBD/Sistema.md": "LiCog",
+  "Templates/Lição.md": {
+    "iconName": "LiGraduationCap",
+    "iconColor": "#404040"
+  }
+}

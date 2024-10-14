@@ -1,0 +1,4 @@
+- Um texto que tem como ponto de partida um facto, um objeto ou um aspecto.
+- Tem que ter uma descrição, seguida de uma opinião e perceção do que aconteceu ou do que se viu.
+- Estrutura: Introdução: - Apresenta-se o nome, autor e a data.
+- Desenvolvimento: - Descrição ao pormenor e juntar a nossa opinião.

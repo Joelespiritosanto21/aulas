@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e55b1ed1f9b86e13","type":"text","text":"# Tipos de Texto","x":-120,"y":-460,"width":300,"height":50},
+		{"id":"94663fc81698a70d","type":"text","text":"## Texto Literário\n- Ficcional","x":-300,"y":-230,"width":237,"height":130},
+		{"id":"2d4fadfc35a7d654","type":"text","text":"## Texto Não Literário\n- Real\n- Informativo","x":80,"y":-230,"width":292,"height":130}
+	],
+	"edges":[
+		{"id":"22454df0d0b8bd16","fromNode":"e55b1ed1f9b86e13","fromSide":"bottom","toNode":"94663fc81698a70d","toSide":"top"},
+		{"id":"e4b02e7ad5f4b20a","fromNode":"e55b1ed1f9b86e13","fromSide":"bottom","toNode":"2d4fadfc35a7d654","toSide":"top"}
+	]
+}
