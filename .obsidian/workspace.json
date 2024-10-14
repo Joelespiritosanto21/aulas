@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física e Química/Lição 17.md",
+                "file": "Física e Química/Ficha de Trabalho Eletricidade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física e Química/Lição 17.md",
+                "file": "Português/Lição 14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física e Química/Lição 17.md",
+                "file": "Português/Lição 14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física e Química/Lição 17.md"
+                "file": "Português/Lição 14.md"
               }
             }
           },
@@ -194,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a39fda3d874edfbd",
+  "active": "3f763364ccb675b5",
   "lastOpenFiles": [
-    "Português/Lição 14.md",
+    "Física e Química/Ficha de Trabalho Eletricidade.md",
     "Física e Química/Lição 17.md",
+    "Português/Lição 14.md",
     "Português/Lição 12 e 13.md",
     "Inglês/Lição 14 e 15.md",
     "Inglês/Lição 10 e 11.md",
@@ -222,7 +222,6 @@
     "Inglês/Lição 7 e 8.md",
     "Área de Integração/Lição 4 e 5.md",
     "Matemática/Exercícios lição 9 e 10.md",
-    "Matemática/Lição 9 e 10.md",
     "Matemática/anexos/Pasted image 20241001101101.png",
     "Matemática/anexos/Pasted image 20241001100448.png",
     "Matemática/anexos/Pasted image 20241001085938.png",
