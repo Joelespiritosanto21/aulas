@@ -1,0 +1,4 @@
+- Joel - Hi!
+- Tiago - Hi!
+- Joel - How you've been doing this days?
+- Tiago - 
