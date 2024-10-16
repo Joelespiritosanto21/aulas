@@ -9,4 +9,5 @@ data: 2024-10-16
 
 ## Sumário
 - Início das apresentações.
+- Heteroavaliação
 ## Início Notas relacionadas
