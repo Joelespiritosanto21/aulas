@@ -6,5 +6,6 @@ data: 2024-10-16
 
 ## Sumário
 - Campo elétrico e campo magnético
-- Pesquisar sobre os cientistas: Luigi Galvani, Alessandro Volta, Charles Coulomb, Hans Christian Oersted, Nikola Tesla, Micheal Faraday
+- Pesquisar sobre os cientistas: Luigi Galvani, Alessandro Volta, Charles ‘Coulomb’, Hans Christian Oersted, Nikola Tesla, Michael Faraday
 ## Notas relacionadas
+

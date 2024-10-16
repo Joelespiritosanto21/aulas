@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42e261c11204b2ab",
+        "id": "17e8d156ad5b6da7",
         "type": "tabs",
         "children": [
           {
-            "id": "485e47698ad9acc0",
+            "id": "21f9bff6bab505c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física e Química/Lição 18.md",
+                "file": "Português/Lição 21.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Física e Química/Lição 18.md",
+                "file": "Português/Lição 21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física e Química/Lição 18.md",
+                "file": "Português/Lição 21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Física e Química/Lição 18.md"
+                "file": "Português/Lição 21.md"
               }
             }
           },
@@ -181,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "485e47698ad9acc0",
+  "active": "21f9bff6bab505c0",
   "lastOpenFiles": [
+    "Português/Lição 21.md",
+    "Português/Lição 20.md",
     "Física e Química/Lição 18.md",
     "Português/Lição 14.md",
-    "Português/Lição 20.md",
     "Física e Química/Ficha de Trabalho Eletricidade.md",
     "Física e Química/Lição 17.md",
     "Português/Lição 12 e 13.md",
@@ -209,7 +210,6 @@
     "Física e Química/Lição 10.md",
     "Inglês/Part-time jobs.md",
     "Inglês/Lição 9.md",
-    "Inglês/Lição 7 e 8.md",
     "Matemática/anexos/Pasted image 20241001101101.png",
     "Matemática/anexos/Pasted image 20241001100448.png",
     "Matemática/anexos/Pasted image 20241001085938.png",
