@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Lição 18 e 19"
             }
+          },
+          {
+            "id": "9322b3c10872ed1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +170,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Lição 19 e 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +179,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lição 19 e 20"
+              "title": "Backlinks"
             }
           },
           {
@@ -179,12 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Lição 19 e 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lição 19 e 20"
+              "title": "Outgoing links"
             }
           },
           {
@@ -205,11 +213,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Matemática/Lição 19 e 20.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Lição 19 e 20"
+              "title": "Outline"
             }
           },
           {
@@ -263,11 +269,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6c639823fcd950da",
+  "active": "9322b3c10872ed1b",
   "lastOpenFiles": [
+    "Matemática/Lição 19 e 20.md",
     "Matemática/Drawing 2024-10-17 14.42.34.excalidraw.md",
     "Física e Química/Lição 18.md",
-    "Matemática/Lição 19 e 20.md",
     "Inglês/Dialogue.md",
     "Inglês/Lição 20 e 21.md",
     "Inglês/Lição 18 e 19.md",
