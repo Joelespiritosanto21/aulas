@@ -48,3 +48,5 @@ Tiago - That's not the point. What i'm trying to say is that maybe you have to s
 **Tiago** - Deal. Just don’t come crying to me when you end up knee-deep in unnecessary fixes.
 
 **Joel** - (laughs) I’ll hold you to that!
+
+------------end---------------
