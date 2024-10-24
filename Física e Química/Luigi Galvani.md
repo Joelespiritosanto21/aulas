@@ -1,9 +1,5 @@
-Luigi Galvani foi um físico, naturalista e filósofo italiano, nascido em 1737 e falecido a 18 de janeiro de 1798. É amplamente reconhecido pelas suas contribuições pioneiras no campo da bioeletricidade, que estabeleceram as bases da neurociência e permitiram avanços significativos na compreensão da relação entre eletricidade e o sistema nervoso.
-
-O trabalho mais notável de Galvani envolveu experiências que ele denominou "força animal", uma energia que acreditava ser libertada pelas fibras musculares. Durante as suas investigações, observou que a aplicação de uma corrente elétrica a uma vértebra de rã, usando uma haste de platina, provocava contrações musculares no animal. Galvani concluiu que as fibras musculares reagiam ao estímulo elétrico devido à presença de uma substância elétrica inerente nas células dos animais.
-
-Galvani acreditava que essa "força animal" era uma energia interna e distinta da eletricidade externa. Contudo, o seu trabalho foi contestado por Alessandro Volta, outro cientista italiano, que defendeu que as contrações resultavam da eletricidade gerada pela interação entre diferentes materiais (nomeadamente a água presente no corpo da rã e os metais utilizados). Volta baseou-se nestas observações para criar a primeira bateria moderna, conhecida como "pilha de Volta".
-
-Apesar das controvérsias em torno das suas conclusões, as descobertas de Galvani foram fundamentais para o progresso da neurociência. Os seus experimentos abriram caminho para o entendimento do papel crucial da eletricidade na função dos nervos e músculos. As suas contribuições ajudaram a lançar as bases para o estudo da biofísica, eletricidade e biologia, sendo considerado um pioneiro na eletricidade biológica.
-
-Em suma, o impacto de Luigi Galvani no estudo da eletricidade e neurociência foi profundo, demonstrando pela primeira vez a relação entre a eletricidade e o sistema nervoso. O seu trabalho possibilitou o desenvolvimento de teorias e modelos que vieram a melhorar o nosso conhecimento sobre o cérebro e o sistema nervoso, continuando a inspirar cientistas e investigadores até aos dias de hoje.
+---
+tags:
+  - fq
+---
+Luigi Galvani fazia várias experiencias com animais e reparou que conseguia causar contrações nos músculos de animais e especulou a existência de uma “energia animal”.

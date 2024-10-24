@@ -1,15 +1,12 @@
 ---
-tags: [lição, fq-modulo-7, fq]
+tags: [lição, fq]
 data: 2024-09-23
-2-hours: false
+hours: 1
+modulo: 7
 ---
 
 ## Sumário
-- Modelos ondulatório e corpuscular da [[luz]] (continuação). Fenómenos luminosos: Interferência, difração e efeito fotoelétrico.
+- [[Modelo ondulatório da luz]]
+- [[Modelo corpuscular da luz]]
+- [[Modelo quântico da luz]]
 
-## Notas relacionadas
-[[luz]]
-[[ótica]]
-[[Modelo Corposcular da Luz]]
-[[Modelo Ondulatório da Luz]]
-[[Modelo Quântico da Luz]]

@@ -1,5 +1,7 @@
-### Exercícios
-
+---
+tags:
+  - fq
+---
 #### 1.1.
 **Luz visível**
 
@@ -34,11 +36,3 @@ f - **Augustin-Jean Fresnel**
 - **A:** F
 - **B:** V
 - **C:** V
-
-#### 10.1
-- **A:** F
-- **B:** F
-- **C:** V
-- **D:** F
-- **E:** V
-- **F:** V

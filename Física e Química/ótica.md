@@ -1,1 +1,0 @@
-A ótica é a área da Física que estuda a luz e os fenómenos da visão

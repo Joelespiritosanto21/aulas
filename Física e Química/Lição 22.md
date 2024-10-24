@@ -1,9 +1,11 @@
 ---
-tags: [lição]
+tags: [lição, fq]
 data: 2024-10-23
-2-hours: false
+hours: 1
+modulo: 7
 ---
 
 ## Sumário
-- Campo elétrico e campo magnético (continuação).
+- [[Campo magnético]] e [[Campo elétrico]] - Continuação
+
 ## Notas relacionadas

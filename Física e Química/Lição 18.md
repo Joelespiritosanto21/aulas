@@ -1,11 +1,9 @@
 ---
-tags: [lição]
+tags: [lição, fq]
 data: 2024-10-16
-2-hours: false
+hours: 1
+modulo: 7
 ---
 
 ## Sumário
-- Campo elétrico e campo magnético
-- Pesquisar sobre os cientistas: [[Luigi Galvani]], Alessandro Volta, Charles ‘Coulomb’, Hans Christian Oersted, Nikola Tesla, Michael Faraday
-## Notas relacionadas
-
+- [[Campo elétrico]] e [[Campo magnético]].
