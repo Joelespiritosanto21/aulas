@@ -1,7 +1,5 @@
 ---
-tags:
-  - lição
-  - fq
+tags: [lição, fq]
 data: 2024-10-28
 2-hours: false
 ---
