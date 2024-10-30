@@ -1,7 +1,5 @@
 ---
-tags:
-  - lição
-  - fq
+tags: [lição, fq]
 data: 2024-10-30
 2-hours: false
 ---
@@ -9,3 +7,6 @@ data: 2024-10-30
 ## Sumário
 - Associação de componentes elétricos em série e em paralelo (continuação).
 ## Notas relacionadas
+[[Exercícios pág. 25]]
+[[Exercícios pág. 26]]
+[[Exercícios pág. 30]]
