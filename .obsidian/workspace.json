@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d2d751e320bb4f0",
+        "id": "001b82203b831fb5",
         "type": "tabs",
         "children": [
           {
-            "id": "9d05acd644343db1",
+            "id": "1eac215d8b64c3c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inglês/Lição 30 e 31.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lição 30 e 31"
             }
           }
         ]
@@ -222,8 +226,9 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9d05acd644343db1",
+  "active": "1eac215d8b64c3c7",
   "lastOpenFiles": [
+    "Inglês/Lição 30 e 31.md",
     "Inglês/Lição 29.md",
     "Inglês/Lição 28.md",
     "Física e Química/Lição 26.md",
@@ -251,7 +256,6 @@
     "Física e Química/Interferência.md",
     "Português/Matriz do teste.md",
     "Física e Química/Resistência elétrica.md",
-    "Física e Química/Corrente elétrica.md",
     "Física e Química",
     "Imagens/Critérios de avaliação.png",
     "Área de Integração/Apelido.canvas",
