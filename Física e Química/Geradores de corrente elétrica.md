@@ -32,7 +32,7 @@ Os geradores também podem ser classificados de acordo com o tipo de corrente qu
 
 ## Características de um gerador
 
-Todos os geradores apresentam uma **resistẽncia interna** (**r**) que se verifica, normalmente através do seu aquecimento.
+Todos os geradores apresentam uma **resistência interna** (**r**) que se verifica, normalmente através do seu aquecimento.
 
 > [!note]
 > Nem toda a energia produzida pelo gerador é disponibilidzada aos recetores, logo a potenci que ele efetivamente disponibiliza ao circuito (potencia util) e a diferença de potencial são ligeiramente menores.
