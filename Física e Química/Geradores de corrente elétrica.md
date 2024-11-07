@@ -35,7 +35,7 @@ Os geradores também podem ser classificados de acordo com o tipo de corrente qu
 Todos os geradores apresentam uma **resistẽncia interna** (**r**) que se verifica, normalmente através do seu aquecimento.
 
 > [!note]
-> Nem toda a energia produzid pelo gerador é disponibilidzada aos recetores, logo a potenci que ele efetivamente disponibiliza ao circuito (potencia util) e a diferença de potencial são ligeiramente menores.
+> Nem toda a energia produzida pelo gerador é disponibilidzada aos recetores, logo a potenci que ele efetivamente disponibiliza ao circuito (potencia util) e a diferença de potencial são ligeiramente menores.
 
 Os geradores também se caracterizam pela sua **força eletromotriz**, que corresponde a uma diferença de potencial, ou seja, à energia disponibilizada pelo gerador por unidade de [[carga elétrica]]
 
