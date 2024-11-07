@@ -11,16 +11,15 @@ This is the problems we saw in the “Earth Song”, by Michael Jackson:
 - Ozone layer depletion
 
 1-
-	1- by-catch
-	2- deforestation
-	3- water scarcity
-	4- pollution
-	5- over-fishing
-	6- oil and gas development
-	7- climate change effects
-	8- illegal wildlife trade
-	9- poaching
+	1by-catch
+	2deforestation
+	3water scarcity
+	4pollution
+	5over-fishing
+	6oil and gas development
+	7climate change effects
+	8illegal wildlife trade
+	9poaching
 
 2-
-	1- illegal wildlife trading
-	
+	1illegal wildlife trading

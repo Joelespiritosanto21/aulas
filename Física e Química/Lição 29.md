@@ -8,3 +8,4 @@ data: 2024-11-06
 - Geradores de corrente elétrica e lei de Joule.
 ## Notas relacionadas
 [[Geradores de Corrente Elétrica]]
+[[Lei de Joule]]

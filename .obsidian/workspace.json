@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ffcf0f1377080851",
+        "id": "a460c2321947d6d1",
         "type": "tabs",
         "children": [
           {
-            "id": "26c154c96244af30",
+            "id": "5b1313adf46348ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Vocabulary.md",
+                "file": "Física e Química/Lição 29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulary"
+              "title": "Lição 29"
             }
           }
         ]
@@ -226,10 +226,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "26c154c96244af30",
+  "active": "5b1313adf46348ca",
   "lastOpenFiles": [
-    "Inglês/Lição 32 e 33.md",
+    "Física e Química/Lição 30 e 31.md",
+    "Física e Química/Lei de Joule.md",
+    "Física e Química/Unconfirmed 869517.crdownload",
+    "Física e Química/Geradores de corrente elétrica.md",
+    "Física e Química/Unconfirmed 732591.crdownload",
     "Inglês/Vocabulary.md",
+    "Inglês/Lição 32 e 33.md",
     "Física e Química/Lição 27 e 28.md",
     "Física e Química/Geradores de Corrente Elétrica.md",
     "Física e Química/Lição 29.md",
@@ -253,9 +258,6 @@
     "Português/Exercícios pág. 341.md",
     "Português/Lição 26.md",
     "Português/Coesão Textual.md",
-    "Português/Holónimos.md",
-    "Português/Hipónimo.md",
-    "Português/Hiperónimo.md",
     "Física e Química",
     "Imagens/Critérios de avaliação.png",
     "Área de Integração/Apelido.canvas",
@@ -279,8 +281,6 @@
     "Inglês/Teenagers References.canvas",
     "Matemática/anexos",
     "SIBD/Noção de Sistemas.canvas",
-    "Matemática",
-    "Arquitetura de Computadores",
-    "Excalidraw"
+    "Matemática"
   ]
 }
