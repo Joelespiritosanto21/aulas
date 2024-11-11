@@ -16,10 +16,10 @@ tags: [port, os-maias]
 - Morreu em Paris, 1900
 - Cresceu Verdemliho, Aveiro, com os seus pais.
 - Direito - Coimbra - 1861 - Adquiriu o nome [[Geração de 70]], [[Geração de 70|Ramalho Ortigão]], [[Geração de 70|Teófilo Braga]], [[Geração de 70|Antero de Quental]]
-- Crime do Padre Amaro 1ª versão : 1875
+- Crime do Padre Amaro - 1.ª versão:: 1875
 - Escreveu contos, romances e narrativas de viagem
-- Mudou-se para Lisboa - escrevo para o jornal "A Gazeta" e depois "O Egipto"
-- Viveu grande parte da sua vida fora de Portugal: Em cuba, Inglaterra e França
+- Mudou-se para Lisboa - escrevo para o jornal "A Gazeta" e depois "O Egito"
+- Viveu grande parte da vida fora de Portugal: Em Cuba, Inglaterra e França
 - Publicação de "Os mais" - 1888
 - Obras "Post-mortem" - "A ilustre casa de Ramires" e "A cidade e as serras"
 - 
