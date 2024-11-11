@@ -8,3 +8,7 @@ tags: [port, os-maias]
 - Pode ser escrito como Eça de Queir**oz** ou Eça de Queir**ós**
 - Viveu em Aveiro.
 - Autor do conto [[Os Maias]]
+
+- Nome completo: José Maria Eça de Queiroz
+- Pai: José Maria Teixeira de Queiroz
+- Mãe: Carolina Augusta de Eça
