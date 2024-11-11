@@ -11,17 +11,14 @@
             "id": "19c178009505eacf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Português/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "SIBD/Normalização.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Normalização"
             }
           }
         ]
@@ -232,12 +229,14 @@
   "active": "19c178009505eacf",
   "lastOpenFiles": [
     "Português/Untitled.canvas",
+    "SIBD/Normalização.md",
+    "Português/Untitled.md",
+    "Português/Os Maias.md",
     "Português/Realismo.md",
     "Português/Texto Exemplo.md",
     "Português/Tipos de texto.canvas",
     "Untitled.canvas",
     "Português/Exercícios pág. 341.md",
-    "Português/Os Maias.md",
     "Português/Lição 35 e 36.md",
     "Português/Exercícios pag. 191.md",
     "Português/Eça de Queirós.md",
@@ -262,10 +261,8 @@
     "Física e Química/Geradores de corrente elétrica.md",
     "Física e Química/Geradores de Corrente Elétrica.md",
     "Física e Química/Lei de Joule.md",
-    "Física e Química/Lição 30 e 31.md",
     "Física e Química/Unconfirmed 869517.crdownload",
     "Física e Química/Unconfirmed 732591.crdownload",
-    "Inglês/Vocabulary.md",
     "Área de Integração/Parentesco.canvas",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Física e Química",
