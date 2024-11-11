@@ -19,3 +19,5 @@ tags: [port, os-maias]
 - Crime do Padre Amaro 1ª versão : 1875
 - Escreveu contos, romances e narrativas de viagem
 - Mudou-se para Lisboa - escrevo para o jornal "A Gazeta" e depois "O Egipto"
+- Viveu grande parte da sua vida fora de Portugal: Em cuba, Inglaterra e França
+- Publicação de "Os mais" - 1888
