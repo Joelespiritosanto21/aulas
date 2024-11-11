@@ -22,4 +22,4 @@ tags: [port, os-maias]
 - Viveu grande parte da vida fora de Portugal: Em Cuba, Inglaterra e França
 - Publicação de "Os mais" - 1888
 - Obras "Post-mortem" - "A ilustre casa de Ramires" e "A cidade e as serras"
-- 
+- Realismo, naturalismo - na literatura portuguesa -> Sociedade, Herança Genética e Educação
