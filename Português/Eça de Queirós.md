@@ -21,3 +21,5 @@ tags: [port, os-maias]
 - Mudou-se para Lisboa - escrevo para o jornal "A Gazeta" e depois "O Egipto"
 - Viveu grande parte da sua vida fora de Portugal: Em cuba, Inglaterra e França
 - Publicação de "Os mais" - 1888
+- Obras "Post-mortem" - "A ilustre casa de Ramires" e "A cidade e as serras"
+- 

@@ -8,7 +8,9 @@
     "pt": "pt-PT",
     "ca": "ca-ES"
   },
-  "dictionary": [],
+  "dictionary": [
+    "mortem"
+  ],
   "pickyMode": true,
   "motherTongue": "pt",
   "disabledRules": "FINAL_STOPS,DASH_RULE"
