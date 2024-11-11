@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "56b13f794592e35d",
+        "id": "03696d1266a02ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "bde9158801642ff0",
+            "id": "19c178009505eacf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Português/Os Maias.md",
-                "mode": "source",
-                "source": false
+                "file": "Português/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Os Maias"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -226,15 +229,20 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bde9158801642ff0",
+  "active": "19c178009505eacf",
   "lastOpenFiles": [
+    "Português/Untitled.canvas",
     "Português/Realismo.md",
+    "Português/Texto Exemplo.md",
+    "Português/Tipos de texto.canvas",
+    "Untitled.canvas",
+    "Português/Exercícios pág. 341.md",
+    "Português/Os Maias.md",
     "Português/Lição 35 e 36.md",
     "Português/Exercícios pag. 191.md",
     "Português/Eça de Queirós.md",
     "Português/Lição 33 e 34.md",
     "Português/Lição 33 & 34.md",
-    "Português/Os Maias.md",
     "Português/Lição 33 & 34.md.fdmdownload",
     "Português/Geração de 70.md",
     "Português/Geração de 70.md.fdmdownload",
@@ -246,7 +254,6 @@
     "Português/Lição 31.md",
     "Português/Lição 29 e 30.md",
     "Português/Lição 27 e 28.md",
-    "Português/Exercícios pág. 341.md",
     "Português/Exercícios pág. 185.md",
     "Física e Química/Lição 29.md",
     "Física e Química/Fotões.md",
@@ -259,8 +266,6 @@
     "Física e Química/Unconfirmed 869517.crdownload",
     "Física e Química/Unconfirmed 732591.crdownload",
     "Inglês/Vocabulary.md",
-    "Inglês/Lição 32 e 33.md",
-    "Física e Química/Lição 27 e 28.md",
     "Área de Integração/Parentesco.canvas",
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Física e Química",
@@ -277,8 +282,6 @@
     "Matemática/anexos/Pasted image 20240924101354.png",
     "Matemática/anexos/Pasted image 20240919143855.png",
     "Matemática/anexos/Pasted image 20240919143852.png",
-    "Untitled.canvas",
-    "Português/Tipos de texto.canvas",
     "SIBD/Evolução dos Sistemas.canvas",
     "Inglês/Teenagers References.canvas",
     "SIBD/Noção de Sistemas.canvas"

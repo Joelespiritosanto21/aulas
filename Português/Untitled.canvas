@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cddd5087b347d833","x":-480,"y":-360,"width":400,"height":160,"type":"file","file":"Português/Os Maias.md"},
+		{"id":"34159a4ffbaf441b","x":11,"y":-378,"width":250,"height":60,"type":"text","text":"História de uma família da Elite Portuguesa"}
+	],
+	"edges":[
+		{"id":"1242fa10ac1a7c0c","fromNode":"cddd5087b347d833","fromSide":"right","toNode":"34159a4ffbaf441b","toSide":"left"}
+	]
+}
