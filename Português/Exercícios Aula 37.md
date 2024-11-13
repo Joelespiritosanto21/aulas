@@ -10,3 +10,6 @@ A personagem mais importante é "A mãe", a senhora idosa e dona de tudo. Vivem 
 3 - Revela a simbologia(importância) da casa.
 
 R: A casa representa o coração da cidade, sendo também um símbolo de tradição e status da família downtown.
+
+![[Downtown Abbey vs Os Maias|100%]]
+
