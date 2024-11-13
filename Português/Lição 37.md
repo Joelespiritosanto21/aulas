@@ -9,6 +9,5 @@ data: 2024-11-13
 
 ## Sumário
 - Ramalhete - a casa da família.
-- Visionamento de um trailer, "Downtown Abbey" - exercício de interpretação
-- 
+- Visionamento de um ‘trailer’, "Downtown Abbey" - exercício de interpretação
 ## Notas relacionadas
