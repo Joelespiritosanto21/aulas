@@ -5,7 +5,7 @@ R: Uma casa grande, algo clássica, mobilada para refletir a nobreza e o luxo da
 2 - Descreve a família, as relações familiares e identifica uma das personagens mais importantes.
 
 R: A família é composta pelos condes de Gotham. Parecem relações familiares tensas.
-A personagem mais importante é "A mãe", a senhora idosa e dona de tudo. Vivem como a realeza. 
+A personagem mais importante é "A mãe", a senhora idosa e dona de tudo. Vivem como a realeza.
 
 3 - Revela a simbologia(importância) da casa.
 
