@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Exercícios Aula 37"
             }
-          },
-          {
-            "id": "168a0809404f7b4d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Downtown Abbey vs Os Maias.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Downtown Abbey vs Os Maias"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,9 +241,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "168a0809404f7b4d",
+  "active": "a9136c74c9e44fcd",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-13 16.16.51.excalidraw.md",
     "Português/Exercícios Aula 37.md",
+    "Excalidraw/template.excalidraw.md",
     "Excalidraw/Downtown Abbey vs Os Maias.md",
     "Português/Lição 37.md",
     "Português/Lição 35 e 36.md",
@@ -289,8 +279,6 @@
     "Português/Unconfirmed 38510.crdownload",
     "Português/Unconfirmed 192342.crdownload",
     "Português/Unconfirmed 145112.crdownload",
-    "Física e Química/Lição 32.md",
-    "Português/Lição 32.md",
     "Física e Química/Unconfirmed 869517.crdownload",
     "Física e Química/Unconfirmed 732591.crdownload",
     "Física e Química",
