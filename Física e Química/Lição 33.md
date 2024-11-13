@@ -1,7 +1,5 @@
 ---
-tags:
-  - lição
-  - fq
+tags: [lição, fq]
 data: 2024-11-13
 2-hours: false
 ---
@@ -9,3 +7,5 @@ data: 2024-11-13
 ## Sumário
 - Trabalhos de pesquisa sobre a temática "[[Indução eletromagnética]]"
 ## Notas relacionadas
+
+[[Indução eletromagnética-trabalho de pesquisa|Trabalho de Pesquisa]]
