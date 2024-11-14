@@ -13,4 +13,3 @@ R: A casa representa o coração da cidade, sendo também um símbolo de tradiç
 
 ![[Downtown Abbey vs Os Maias|100%]]
 
-
