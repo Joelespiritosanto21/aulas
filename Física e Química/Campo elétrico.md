@@ -5,7 +5,7 @@ modulo: 5
 
 Uma [[carga elétrica]] cria uma região do espaço onde atuam as forças elétricas, chamado **campo elétrico**.
 
-As cargas elétricas exercem [[Forças elétricas]] entre si:
+As cargas elétricas exercem [[Força elétricas]] entre si:
 - Caso as cargas forem iguais, positivo com positivo ou negativo com negativo, as cargas se repelem.
 - No caso de serem cargas opostas, positivo com negativo, as cargas se atraem.
 

@@ -20,12 +20,12 @@ A função do gerador é aplicar continuamente uma diferença de potencial entre
 		- **Baterias**
 - **Geradores térmicos**
 	- Convertem diretamente energia térmica em elétrica
-- **Geradores mecâncos**
-	- Transformam energia mecanca em energia elétrica
+- **Geradores mecânicos**
+	- Transformam energia mecânica em [[eletricidade|energia elétrica]]
 - **Geradores solares**
 	- Transformam energia solar em energia elétrica
 	- Exemplos:
-		- **Paineis solares**
+		- **Painéis solares**
 Os geradores também podem ser classificados de acordo com o tipo de corrente que fornecem ao circuito:
 - **Geradores de tensão continua**: fornecem praticamente sempre a mesma [[diferença de potencial]] ao circuito, pois os [[eletrões]] circulam sempre no mesmo sentido e a [[corrente elétrica]] (**I**) é contante ao longo do tempo.
 - **Geradores de tensão alternada**: produzem [[corrente elétrica]] que varia periodicamente ao longo do tempo, alternando entre valores positivos e negativos, mediante o sentido do movimento dos eletrões, que varia constantemente.
@@ -35,7 +35,7 @@ Os geradores também podem ser classificados de acordo com o tipo de corrente qu
 Todos os geradores apresentam uma **resistência interna** (**r**) que se verifica, normalmente através do seu aquecimento.
 
 > [!note]
-> Nem toda a energia produzida pelo gerador é disponibilidzada aos recetores, logo a potenci que ele efetivamente disponibiliza ao circuito (potencia util) e a diferença de potencial são ligeiramente menores.
+> Nem toda a energia produzida pelo gerador é disponibilizada aos recetores, logo a potencia que ele efetivamente disponibiliza ao circuito (potencia util) e a diferença de potencial são ligeiramente menores.
 
 Os geradores também se caracterizam pela sua **força eletromotriz**, que corresponde a uma diferença de potencial, ou seja, à energia disponibilizada pelo gerador por unidade de [[carga elétrica]]
 

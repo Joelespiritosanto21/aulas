@@ -1,8 +1,12 @@
-A [[corrente elétrica]] que atravessa um [[Circuitos Elétricos|circuito elétrico]] corresponde ao movimento orientado de cargas elétricas que provêm do gerador.
+---
+tags: [fq]
+---
 
- ## O que será que provoca esse movimento de cargas ao longo de todo o circuito?
+A [[corrente elétrica]] que atravessa um [[Circuitos Elétricos|circuito elétrico]] corresponde ao movimento orientado de [[carga elétrica|cargas elétricas]] que provêm do [[Geradores de corrente elétrica|gerador]].
 
- Para que se verifique o fluxo de eletrões entre dois condutores, é necessário que exista, entre eles, uma **diferença de potencial elétrico (U)**.
+ ## O que será que provoca esse movimento de cargas ao longo de todo o [[Circuitos Elétricos|circuito]]?
+
+ Para que se verifique o fluxo de [[eletrões]] entre dois [[condutor elétrico|condutores]], é necessário que exista, entre eles, uma **diferença de potencial elétrico (U)**.
 
 > [!summary]- Diferença de Potencial (U)
-> Quantidade de energia elétrica fornecida pelo gerador ao circuito
+> Quantidade de [[eletricidade|energia elétrica]] fornecida pelo gerador ao [[Circuitos Elétricos|circuito]]

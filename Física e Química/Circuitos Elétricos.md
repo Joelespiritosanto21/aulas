@@ -1,3 +1,6 @@
+---
+tags: [fq]
+---
 
 A **corrente elétrica** corresponde ao movimento orientado de cargas elétricas ao longo de u condutor ligado a um gerador.
 
@@ -5,10 +8,10 @@ Assim a passagem de corrente elétrica pressupõe a existência de um “caminho
 
 ## Constituição de um circuito elétrico
 
-Um circuito elétrico é constituido por:
+Um circuito elétrico é constituído por:
 - Uma fonte ou gerador de corrente, que fornece energia ao circuito, produzindo a corrente elétrica.
-- um ou vários recetores, que transformam a energia elétrica recebida noutra forma de energia
-- Fios elétricos que transportam a energia elétrica
+- um ou vários recetores, que transformam a [[Eletricidade|energia elétrica]] recebida noutra forma de energia
+- Fios elétricos que transportam a [[Eletricidade|energia elétrica]]
 
 ## Componentes elétricos
 Os elementos do circuito por onde as cargas elétricas passam são os **componentes do circuito**.

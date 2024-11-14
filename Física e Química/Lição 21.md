@@ -2,7 +2,7 @@
 tags: [lição, fq]
 data: 2024-10-21
 hours: 1
-modulo: 7
+modulo: 8
 ---
 
 ## Sumário

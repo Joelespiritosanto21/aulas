@@ -1,11 +1,10 @@
 ---
 tags: [lição, fq]
 data: 2024-11-06
-2-hours: false
+hours: 1
+modulo: 8
 ---
 
 ## Sumário
-- Geradores de corrente elétrica e lei de Joule.
-## Notas relacionadas
-[[Geradores de Corrente Elétrica]]
-[[Lei de Joule]]
+- [[Geradores de corrente elétrica]]
+- [[Lei de Joule]]
