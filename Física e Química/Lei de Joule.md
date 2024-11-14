@@ -21,6 +21,8 @@ Foi **James Joule** quem conseguiu determinar a quantidade de energia térmica l
 
 As conclusões de Joule podem ser resumidas num só enunciado, conhecido como **Lei de Joule**.
 
+1 kWh = 3,6×1063,6 \times 10^63,6×106 J:
+
 > [!summary] Lei de Joule
 > A energia térmica libertada por um [[condutor elétrico|condutor]] pela passagem da [[corrente elétrica]] é diretamente proporcional à [[resistência elétrica]] do condutor, ao quadrado da [[corrente elétrica]] que o atravessa e ao tempo de passagem da [[corrente elétrica]].
 

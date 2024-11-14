@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física e Química/Potência elétrica.md",
+                "file": "Física e Química/Lei de Joule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potência elétrica"
+              "title": "Lei de Joule"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "potê",
+                "query": "joule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,6 +244,8 @@
   },
   "active": "7c61b8d6557fd145",
   "lastOpenFiles": [
+    "Física e Química/Potência elétrica.md",
+    "Física e Química/Lei de Joule.md",
     "Física e Química/Lição 26.md",
     "Física e Química/Circuitos Elétricos.md",
     "Física e Química/Força elétricas.md",
@@ -268,8 +270,6 @@
     "Excalidraw/Drawing 2024-09-25 09.19.06.excalidraw 1.md",
     "Excalidraw/Drawing 2024-09-24 09.03.04.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 08.58.07.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-24 08.38.23.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-19 15.39.30.excalidraw.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
