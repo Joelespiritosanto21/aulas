@@ -1,7 +1,7 @@
 ---
-tags:
-  - fq
+tags: [fq]
 ---
+
 #### 1.1.
 **Luz visível**
 

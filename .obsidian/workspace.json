@@ -11,10 +11,13 @@
             "id": "776114dbf4014337",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "diff-view",
+              "state": {
+                "file": "Física e Química/Resolução de exercícios - “Agora aplico!” das páginas 104 e 106 do manual adotado..md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Resolução de exercícios - “Agora aplico!” das páginas 104 e 106 do manual adotado.)"
             }
           }
         ]
@@ -222,18 +225,20 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bd9d5af4771c149b",
+  "active": "776114dbf4014337",
   "lastOpenFiles": [
-    "Física e Química/Anexos/Associação de componentes elétricos em série e em paralelo 2024-10-30 12.11.34.excalidraw.md",
-    "Física e Química/Transversal.md",
-    "Física e Química/Resolução de exercícios - “Agora aplico!” das páginas 104 e 106 do manual adotado..md",
-    "Física e Química/Resolução de exercicios - “Agora Aplico!” da página 116 do manual adotado.md",
     "Física e Química/Resistência elétrica.md",
-    "Física e Química/Refração da luz.md",
-    "Física e Química/Reflexão da luz.md",
-    "Física e Química/Processos de emissão de luz visível.md",
     "Física e Química/Potência elétrica.md",
     "Física e Química/Período de uma onda.md",
+    "Física e Química/Campo elétrico.md",
+    "Física e Química/Carga elétrica.md",
+    "Física e Química/Processos de emissão de luz visível.md",
+    "Física e Química/Resolução de exercícios - “Agora aplico!” das páginas 104 e 106 do manual adotado..md",
+    "Física e Química/Transversal.md",
+    "Física e Química/Anexos/Associação de componentes elétricos em série e em paralelo 2024-10-30 12.11.34.excalidraw.md",
+    "Física e Química/Resolução de exercicios - “Agora Aplico!” da página 116 do manual adotado.md",
+    "Física e Química/Refração da luz.md",
+    "Física e Química/Reflexão da luz.md",
     "Física e Química/Ondas eletromagnéticas.md",
     "Física e Química/Onda.md",
     "Física e Química/Oersted.md",
@@ -248,8 +253,6 @@
     "Física e Química/Lição 7 & 8.md",
     "Física e Química/Lição 6.md",
     "Física e Química/Lição 5.md",
-    "Física e Química/Lição 33.md",
-    "Física e Química/Lição 30 & 31.md",
     "Física e Química/Anexos",
     "Física e Química",
     "Área de Integração/Parentesco.canvas",
