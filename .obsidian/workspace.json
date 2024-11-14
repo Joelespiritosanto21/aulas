@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física e Química/Campo elétrico.md",
+                "file": "Física e Química/Lição 33.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campo elétrico"
-            }
-          },
-          {
-            "id": "c891d17c55c20977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física e Química/Campo elétrico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Campo elétrico"
+              "title": "Lição 33"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +226,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f00a803fd200fc2d",
+  "active": "776114dbf4014337",
   "lastOpenFiles": [
+    "Física e Química/Campo elétrico.md",
+    "Física e Química/Força elétricas.md",
+    "Física e Química/Campo magnético.md",
+    "Física e Química/Lição 18.md",
+    "Física e Química/Lição 22.md",
+    "Física e Química/Detetor de luz.md",
+    "Física e Química/Corrente elétrica.md",
     "Excalidraw/Triangulo Retangulo Razões trigonométricas.excalidraw.md",
     "Excalidraw/Triangulo Retangulo Isósceles Razões trigonométricas.excalidraw.md",
     "Excalidraw/Processos de emissão de luz visível.excalidraw.md",
@@ -262,16 +254,9 @@
     "Excalidraw/Cateto oposto.excalidraw.md",
     "Excalidraw/Cateto adjacente.excalidraw.md",
     "Excalidraw/Bancos de dados antigamente.excalidraw.md",
-    "Excalidraw/Banco de dados.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
-    "Física e Química/Carga elétrica.md",
-    "Física e Química/Campo elétrico.md",
-    "Física e Química/Resistência elétrica.md",
-    "Física e Química/Potência elétrica.md",
-    "Física e Química/Período de uma onda.md",
-    "Física e Química/Processos de emissão de luz visível.md",
     "Física e Química/Anexos",
     "Física e Química",
     "Área de Integração/Parentesco.canvas",
