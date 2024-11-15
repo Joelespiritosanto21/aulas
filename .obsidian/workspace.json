@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Página 198.md",
+                "file": "Português/O Ramalhete - Capítulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Página 198"
+              "title": "O Ramalhete - Capítulo 1"
+            }
+          },
+          {
+            "id": "f0290fabc9e05ce9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +239,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "008df4148889c377",
+  "active": "f0290fabc9e05ce9",
   "lastOpenFiles": [
+    "Português/O Ramalhete - Capítulo 1.md",
+    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/Lição 38 e 39.md",
-    "Português/Página 198.md",
     "Português/anexos/Lição 38 e 39 2024-11-15 12.02.42.excalidraw.md",
     "Português/anexos",
     "Português/Lição 37.md",
@@ -279,7 +293,6 @@
     "Matemática/anexos/Pasted image 20241001085938.png",
     "Matemática/anexos/Pasted image 20241001085037.png",
     "Matemática/anexos/WhatsApp Image 2024-09-24 at 10.15.17.jpeg",
-    "Matemática/anexos/WhatsApp Image 2024-09-24 at 10.13.26.jpeg",
     "SIBD/Evolução dos Sistemas.canvas",
     "Inglês/Teenagers References.canvas",
     "SIBD/Noção de Sistemas.canvas"
