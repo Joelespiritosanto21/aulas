@@ -80,7 +80,7 @@ de Pedro ^AaMoKk4J
 
 Situação ^6iPDgQdr
 
-✅ Um dia Pedro 
+✅ Um dia Pedro
 vai à caça, sem
 querer, fere um
 italiano/napolitano,
@@ -90,8 +90,8 @@ decide levá-lo para casa ^cYjhwHNP
 Maria Monforte
   desapareceu,
 fugiu com Tancreo
-e levou consigo a 
-rapariga e deixa 
+e levou consigo a
+rapariga e deixa
 à responsabilidade
 de Pedro o filho ^V2W8eODX
 
@@ -122,7 +122,7 @@ Coimbra - Medicina ^RqpSkORj
     O seu melhor
 amigo João da Ega ^JoPlacSB
 
-Carlos é médico 
+Carlos é médico
 e faz uma viagem
  de 1 ano por toda
  a Europa ^oHfRBqyf
