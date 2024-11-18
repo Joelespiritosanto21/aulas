@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Exercicios pág. 201 e 202.md",
+                "file": "Português/O Ramalhete - Capítulo 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercicios pág. 201 e 202"
+              "title": "O Ramalhete - Capítulo 1"
+            }
+          },
+          {
+            "id": "ea4ab597ac7710e5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +239,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "008df4148889c377",
+  "active": "ea4ab597ac7710e5",
   "lastOpenFiles": [
+    "Português/O Ramalhete - Capítulo 1.md",
     "Português/Lição 40 e 41.md",
+    "Português/Matriz do teste.md",
     "Português/Exercicios pág. 201 e 202.md",
     "Português/Lição 38 e 39.md",
-    "Português/O Ramalhete - Capítulo 1.md",
     "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/Lição 37.md",
     "Português/anexos/Pasted image 20241115125700.png",
@@ -256,7 +270,6 @@
     "Física e Química/Lição 22.md",
     "Física e Química/Detetor de luz.md",
     "Física e Química/Corrente elétrica.md",
-    "Excalidraw/Triangulo Retangulo Razões trigonométricas.excalidraw.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
