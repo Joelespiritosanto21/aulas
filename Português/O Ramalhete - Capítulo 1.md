@@ -18,4 +18,4 @@ O ramalhete em 1875, situado em Lisboa, no bairro das Janelas Verdes, encontrava
 > [!warning]
 > Nesta expressão, está apresentada uma comparação a mostrar a proximidade entre o cipreste e o cedro, que podem representar duas personagens importantes, Afonso e Vilaça. Esta relação é enfatizada pela metáfora, a qual mostra a continuidade desta "amizade" por muitos anos, até que envelheçam.
 
-![[O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw]]
+![[O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw|100%]]
