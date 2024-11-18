@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8b59bf4ce6dda829",
+        "id": "f03e68e231953424",
         "type": "tabs",
         "children": [
           {
-            "id": "008df4148889c377",
+            "id": "3e86e99546a922d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/O Ramalhete - Capítulo 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "O Ramalhete - Capítulo 1"
-            }
-          },
-          {
-            "id": "ea4ab597ac7710e5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,14 +222,14 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ea4ab597ac7710e5",
+  "active": "f00a803fd200fc2d",
   "lastOpenFiles": [
     "Português/O Ramalhete - Capítulo 1.md",
+    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/Lição 40 e 41.md",
     "Português/Matriz do teste.md",
     "Português/Exercicios pág. 201 e 202.md",
     "Português/Lição 38 e 39.md",
-    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/Lição 37.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
