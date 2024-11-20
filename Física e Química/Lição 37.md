@@ -7,3 +7,4 @@ data: 2024-11-20
 ## Sumário
 - Aula debate sobre a temática: "Indução eletromagnética"
 ## Notas relacionadas
+[[Corrente Elétrica Induzida]]
