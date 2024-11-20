@@ -1,14 +1,14 @@
 3.
-A- F - She left with her mother and brother
-B- T
-C- F- Her work is remote
-D- He choose poland cause she had her friends there
+AF - She left with her mother and brother
+BT
+CFHer work is remote
+DHe choose poland cause she had her friends there
 
 4.
 A-
-B- 
+B-
 
 5.
 1) western
 2) war
-3) 
+3)
