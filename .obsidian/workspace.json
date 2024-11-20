@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "52d7c7eb34c0f900",
+        "id": "f9c3e68a1ed0f5fd",
         "type": "tabs",
         "children": [
           {
-            "id": "e9f9a66d3492ca68",
+            "id": "1a895cd94ae13ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Lição 42.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 42"
+            }
+          },
+          {
+            "id": "bd98abb577dc21c3",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md"
+                "file": "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Deíticos 2024-11-20 15.59.19.excalidraw"
+              "title": "Deíticos 2024-11-20 16.06.51.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,11 +239,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "e9f9a66d3492ca68",
+  "active": "bd98abb577dc21c3",
   "lastOpenFiles": [
     "Português/Deíticos.md",
-    "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
+    "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md",
     "Português/Lição 42.md",
+    "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
     "Português/Lição 40 e 41.md",
     "Português/Exercicios pág. 201 e 202.md",
     "Inglês/Ex. pag. 117.md",
@@ -254,7 +270,6 @@
     "Física e Química/Circuitos Elétricos.md",
     "Física e Química/Força elétricas.md",
     "Física e Química/Onda.md",
-    "Física e Química/Oersted.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
