@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f03e68e231953424",
+        "id": "3b8b6fa9565a99e7",
         "type": "tabs",
         "children": [
           {
-            "id": "3e86e99546a922d9",
+            "id": "c25fe0938ab09741",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física e Química/Lição 37.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lição 37"
             }
           }
         ]
@@ -222,8 +226,9 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3e86e99546a922d9",
+  "active": "c25fe0938ab09741",
   "lastOpenFiles": [
+    "Física e Química/Lição 37.md",
     "Português/O Ramalhete - Capítulo 1.md",
     "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/Lição 40 e 41.md",
@@ -252,7 +257,6 @@
     "Física e Química/Lição 18.md",
     "Física e Química/Lição 22.md",
     "Física e Química/Detetor de luz.md",
-    "Física e Química/Corrente elétrica.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
