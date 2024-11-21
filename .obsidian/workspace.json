@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Deíticos"
             }
-          },
-          {
-            "id": "bd98abb577dc21c3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Deíticos 2024-11-20 16.06.51.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,7 +241,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bd98abb577dc21c3",
+  "active": "bd9d5af4771c149b",
   "lastOpenFiles": [
     "Português/Deíticos.md",
     "Português/Lição 42.md",
