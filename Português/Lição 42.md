@@ -6,5 +6,6 @@ data: 2024-11-20
 
 ## Sumário
 - Conclusão do exercicio de avaliação.
+- 
 ## Notas relacionadas
 [[Deíticos]]
