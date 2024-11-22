@@ -4,3 +4,6 @@
 4 - How difficult was it for you to communicate?
 5 - What's your main goal?
 6 - What's your advice for other migrant families?
+
+[[Interview script for a foreign]]
+
