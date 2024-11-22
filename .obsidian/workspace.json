@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a6b7dde3bd2a23c",
+        "id": "dca28ee635529e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "523c5def06721e8d",
+            "id": "c2b5f69473ac80e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Lição 43 e 44"
             }
+          },
+          {
+            "id": "bda4c5f5203fec30",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lição 43 e 44 2024-11-22 12.39.53.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,9 +239,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "523c5def06721e8d",
+  "active": "bda4c5f5203fec30",
   "lastOpenFiles": [
     "Português/Lição 43 e 44.md",
+    "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
+    "Português/Intriga Principal.md",
+    "Português/O Ramalhete - Capítulo 1.md",
+    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
+    "Português/Lição 38 e 39.md",
+    "Português/Lição 40 e 41.md",
     "Português/Lição 42.md",
     "Matemática/Lição 35 e 36.md",
     "Matemática/Exercicios lição 35 e 36.md",
@@ -237,16 +256,12 @@
     "Português/Deíticos.md",
     "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md",
     "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
-    "Português/Lição 40 e 41.md",
     "Português/Exercicios pág. 201 e 202.md",
     "Inglês/Ex. pag. 117.md",
     "Inglês/Lição 42 e 43.md",
     "Física e Química/Corrente Elétrica Induzida.md",
     "Física e Química/Lição 37.md",
-    "Português/O Ramalhete - Capítulo 1.md",
-    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
     "Português/Matriz do teste.md",
-    "Português/Lição 38 e 39.md",
     "Português/Lição 37.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
@@ -255,8 +270,6 @@
     "Português/Exercícios Aula 37.md",
     "Matemática/Lição 31 e 32.md",
     "Matemática/Correção 1º teste.md",
-    "Física e Química/Lei de Joule.md",
-    "Física e Química/Diferença de potencial.md",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
     "Excalidraw/Anexos",
