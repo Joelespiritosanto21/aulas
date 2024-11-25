@@ -1,0 +1,2 @@
+1-
+A figura feminina que Carlos e Craft viram na entrada no Hotel Central é uma mulher alta, loura, com um meio veu escuro e apertado, realçando a cor da sua pele. Parecia uma deusa, bem-feita, brilhava e trazia um aroma inesquecível
