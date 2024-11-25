@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "6a23202174acd5dd",
+            "id": "74c3a1d0d458726c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md"
+                "file": "Português/Lição 45 e 46.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lição 43 e 44 2024-11-22 12.55.04.excalidraw"
+              "icon": "lucide-file",
+              "title": "Lição 45 e 46"
             }
           }
         ],
@@ -239,14 +241,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6a23202174acd5dd",
+  "active": "74c3a1d0d458726c",
   "lastOpenFiles": [
     "Português/Lição 43 e 44.md",
+    "Português/Lição 45 e 46.md",
+    "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md",
     "Inglês/Interview script for a foreign.md",
     "Inglês/Exercices pag. 118.md",
     "Inglês/Dialogue.md",
     "Inglês/44 e 45.md",
-    "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.54.50.excalidraw.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
     "Português/Intriga Principal.md",
@@ -266,7 +269,6 @@
     "Inglês/Ex. pag. 117.md",
     "Inglês/Lição 42 e 43.md",
     "Física e Química/Corrente Elétrica Induzida.md",
-    "Física e Química/Lição 37.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
