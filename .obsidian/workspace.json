@@ -4,20 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "48b1ff57d3c2831e",
+        "id": "efd3f21ec21bb83d",
         "type": "tabs",
         "children": [
           {
-            "id": "2cb9ee201bdd6454",
+            "id": "68dd504b832d2cab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Português/Lição 43 e 44.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lição 43 e 44"
+            }
+          },
+          {
+            "id": "6a23202174acd5dd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lição 43 e 44 2024-11-22 12.55.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +239,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f00a803fd200fc2d",
+  "active": "6a23202174acd5dd",
   "lastOpenFiles": [
+    "Português/Lição 43 e 44.md",
     "Inglês/Interview script for a foreign.md",
     "Inglês/Exercices pag. 118.md",
     "Inglês/Dialogue.md",
     "Inglês/44 e 45.md",
-    "Português/Lição 43 e 44.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.54.50.excalidraw.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
