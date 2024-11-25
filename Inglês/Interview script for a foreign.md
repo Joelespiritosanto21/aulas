@@ -1,9 +1,9 @@
 Interviewer: Yo Nerdwin! Where're you from?
-Nerdwin: Hi! I'm from Venezuela. 
+Nerdwin: Hi! I'm from Venezuela.
 Interviewer: You're too far way from your country, aren't you?
 Nerdwin: Yes, unfortunately i had to leave.
 Interviewer: Why did you leave Venezuela?
-Nerdwin: Life in my country isn't really that easy. I had to move to find better living conditions and education. 
+Nerdwin: Life in my country isn't really that easy. I had to move to find better living conditions and education.
 Interviewer: What differences did you notice here?
 Nerdwin: In Venezuela, almost every week there's a festival day and a public holiday. Halloween is known as "*Dia de Los Muertos*".
 Interviewer: How was your trip?
