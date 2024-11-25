@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "efd3f21ec21bb83d",
+        "id": "6eb32a7c3b4aafb1",
         "type": "tabs",
         "children": [
           {
-            "id": "74c3a1d0d458726c",
+            "id": "d82ab968e57edad9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 45 e 46.md",
+                "file": "Física e Química/Lição 40.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 45 e 46"
-            }
-          },
-          {
-            "id": "f809c5f1dd837e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Exercícios pág. 206.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exercícios pág. 206"
+              "title": "Lição 40"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,8 +226,9 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "f809c5f1dd837e4c",
+  "active": "d82ab968e57edad9",
   "lastOpenFiles": [
+    "Física e Química/Lição 40.md",
     "Português/Lição 45 e 46.md",
     "Português/Exercícios pág. 206.md",
     "Português/Capitulo 6.md",
@@ -268,7 +254,6 @@
     "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md",
     "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
     "Português/Exercicios pág. 201 e 202.md",
-    "Inglês/Ex. pag. 117.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
