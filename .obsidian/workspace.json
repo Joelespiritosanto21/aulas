@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d1a821654727342",
+        "id": "129bba9b47785d18",
         "type": "tabs",
         "children": [
           {
-            "id": "ce8bd794347bb42e",
+            "id": "e44f3c7b88fdde2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Área de Integração/Formas de organização de território.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Formas de organização de território"
             }
           }
         ]
@@ -75,8 +79,8 @@
             "state": {
               "type": "tagfolder-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           }
         ]
@@ -222,8 +226,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bd9d5af4771c149b",
+  "active": "e44f3c7b88fdde2f",
   "lastOpenFiles": [
+    "Área de Integração/Formas de organização de território.md",
+    "Área de Integração/Formas de Organização de Território.md",
+    "Física e Química/Corrente elétrica.md",
     "conflict-files-obsidian-git.md",
     "Física e Química/Lição 40.md",
     "Física e Química/Correção de ficha de trabalho som.md",
@@ -247,9 +254,6 @@
     "Matemática/Lição 35 e 36.md",
     "Matemática/Exercicios lição 35 e 36.md",
     "Física e Química/Lição 38 e 39.md",
-    "Português/Deíticos.md",
-    "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md",
-    "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
