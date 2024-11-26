@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6eb32a7c3b4aafb1",
+        "id": "18db8635227b2e55",
         "type": "tabs",
         "children": [
           {
-            "id": "d82ab968e57edad9",
+            "id": "b43a9ce33e6d67e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Física e Química/Correção de ficha de trabalho som.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Correção de ficha de trabalho som"
+              "title": "New tab"
             }
           }
         ]
@@ -226,7 +222,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "d82ab968e57edad9",
+  "active": "bd9d5af4771c149b",
   "lastOpenFiles": [
     "Física e Química/Lição 40.md",
     "Física e Química/Correção de ficha de trabalho som.md",
