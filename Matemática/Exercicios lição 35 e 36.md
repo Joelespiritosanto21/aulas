@@ -1,5 +1,10 @@
 # Análise de Funções Trigonométricas
 
+<<<<<<< HEAD
+=======
+Este documento apresenta uma análise detalhada das propriedades das funções trigonométricas fornecidas.
+
+> > > > > > > origin/main
 ---
 
 ## 1. \( y = \cos(x) + 1 \)
@@ -92,3 +97,4 @@
 
 ---
 
+Se houver dúvidas ou necessidade de esclarecimentos adicionais, sinta-se à vontade para perguntar!

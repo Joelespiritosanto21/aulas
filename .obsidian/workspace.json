@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Exercicios lição 35 e 36"
             }
+          },
+          {
+            "id": "5e9d9f6bd2c0d915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +241,23 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "922c3acadc1da49c",
+  "active": "5e9d9f6bd2c0d915",
   "lastOpenFiles": [
+    "Matemática/Exercicios lição 35 e 36.md",
+    "conflict-files-obsidian-git.md",
+    "Português/anexos/Lição 43 e 44 2024-11-22 12.55.04.excalidraw.md",
+    "Português/anexos/Lição 43 e 44 2024-11-22 12.54.50.excalidraw.md",
+    "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
+    "Português/Lição 45 e 46.md",
+    "Português/Lição 43 e 44.md",
+    "Português/Intriga Principal.md",
+    "Português/Exercícios pág. 206.md",
+    "Português/Capitulo 6.md",
+    "Inglês/Interview script for a foreign.md",
+    "Inglês/Exercices pag. 118.md",
+    "Inglês/44 e 45.md",
+    "Física e Química/Lição 40.md",
+    "Física e Química/Correção de ficha de trabalho som.md",
     "Matemática/Exercícios lição 9 e 10.md",
     "Matemática/Exercícios lição 5 e 6.md",
     "Matemática/Exercícios lição 3 e 4.md",
@@ -239,26 +269,11 @@
     "Matemática/Resolução de exercicios do manual.md",
     "Matemática/Razões trigonométricas..md",
     "Física e Química/Lição 38 e 39.md",
-    "Matemática/Exercicios lição 35 e 36.md",
     "Matemática/Lição 35 e 36.md",
     "Português/Lição 42.md",
     "Português/Deíticos.md",
-    "Português/anexos/Deíticos 2024-11-20 16.06.51.excalidraw.md",
-    "Português/anexos/Deíticos 2024-11-20 15.59.19.excalidraw.md",
-    "Português/Lição 40 e 41.md",
-    "Português/Exercicios pág. 201 e 202.md",
-    "Inglês/Ex. pag. 117.md",
-    "Inglês/Lição 42 e 43.md",
-    "Física e Química/Corrente Elétrica Induzida.md",
-    "Física e Química/Lição 37.md",
-    "Português/O Ramalhete - Capítulo 1.md",
-    "Português/anexos/O Ramalhete - Capítulo 1 2024-11-15 13.05.54.excalidraw.md",
-    "Português/Matriz do teste.md",
-    "Português/Lição 38 e 39.md",
-    "Português/Lição 37.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
-    "Português/anexos/Lição 38 e 39 2024-11-15 12.02.42.excalidraw.md",
     "Português/anexos",
     "Excalidraw/Anexos/Pasted Image 20240923092104_325.png",
     "Excalidraw/Anexos/Pasted Image 20240919130602_023.png",
