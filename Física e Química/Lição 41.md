@@ -5,6 +5,5 @@ data: 2024-11-27
 ---
 
 ## Sumário
-- Fenómenos ondulatórios: Tipos e caracteristicas das ondas.
-- 
+- Fenómenos ondulatórios: tipos e características das ondas.
 ## Notas relacionadas
