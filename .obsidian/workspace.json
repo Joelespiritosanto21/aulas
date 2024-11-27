@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "dbeb83b7a0af2ee9",
+            "id": "d3bf5644063ad5d3",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md"
+                "file": "Inglês/Exercicios page 131.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Lição 47 e 48 2024-11-27 14.46.42.excalidraw"
+              "icon": "lucide-file",
+              "title": "Exercicios page 131"
             }
           }
         ],
@@ -239,9 +241,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "dbeb83b7a0af2ee9",
+  "active": "d3bf5644063ad5d3",
   "lastOpenFiles": [
     "Inglês/Lição 47 e 48.md",
+    "Inglês/Exercicios page 131.md",
     "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md",
     "Inglês/anexos",
     "Inglês/Conditional Sentences.md",
@@ -267,7 +270,6 @@
     "Inglês/Dialogue.md",
     "Inglês/44 e 45.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.54.50.excalidraw.md",
-    "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
