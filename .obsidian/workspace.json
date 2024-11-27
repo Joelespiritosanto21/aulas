@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "726ee299cb233d10",
+        "id": "2403f131a842cb72",
         "type": "tabs",
         "children": [
           {
-            "id": "689541127e5fd1ed",
+            "id": "3951ab75c678b88e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,15 @@
             }
           },
           {
-            "id": "b1423d19eb96314f",
+            "id": "dbeb83b7a0af2ee9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inglês/Exercicios page 128, 175.md",
-                "mode": "source",
-                "source": false
+                "file": "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Exercicios page 128, 175"
+              "icon": "excalidraw-icon",
+              "title": "Lição 47 e 48 2024-11-27 14.46.42.excalidraw"
             }
           }
         ],
@@ -241,9 +239,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "b1423d19eb96314f",
+  "active": "dbeb83b7a0af2ee9",
   "lastOpenFiles": [
     "Inglês/Lição 47 e 48.md",
+    "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md",
+    "Inglês/anexos",
+    "Inglês/Conditional Sentences.md",
     "Inglês/Exercicios page 128, 175.md",
     "Inglês/Exercicios.md",
     "Inglês/Gerund vs (to) Infinitive.md",
@@ -267,8 +268,6 @@
     "Inglês/44 e 45.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.54.50.excalidraw.md",
     "Português/anexos/Lição 43 e 44 2024-11-22 12.39.53.excalidraw.md",
-    "Português/Intriga Principal.md",
-    "Português/O Ramalhete - Capítulo 1.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
@@ -287,7 +286,6 @@
     "Português/Unconfirmed 38510.crdownload",
     "Português/Unconfirmed 192342.crdownload",
     "Português/Unconfirmed 145112.crdownload",
-    "Física e Química/Unconfirmed 869517.crdownload",
     "Imagens/Critérios de avaliação.png",
     "Área de Integração/Apelido.canvas",
     "Matemática/anexos/Pasted image 20241001101101.png",
