@@ -11,10 +11,14 @@
             "id": "6d6b500f9cf1dc62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Português/Para o teste.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Para o teste"
             }
           }
         ]
@@ -224,6 +228,8 @@
   },
   "active": "6d6b500f9cf1dc62",
   "lastOpenFiles": [
+    "Português/Lição 48 e 49.md",
+    "Português/Para o teste.md",
     "Português/Lição 47.md",
     "Inglês/Lição 49 e 50.md",
     "Inglês/Exercises page 178.md",
@@ -249,8 +255,6 @@
     "Inglês/Lição 46.md",
     "Área de Integração/Formas de organização de território.md",
     "Área de Integração/Formas de Organização de Território.md",
-    "Física e Química/Corrente elétrica.md",
-    "conflict-files-obsidian-git.md",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
     "Português/anexos",
