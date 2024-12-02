@@ -13,16 +13,22 @@ O endereçamento lógico é utilizado para identificar dispositivos em redes mai
 
 ## Constituição dos Endereços IP
 
+## Constituição dos Endereços IP
+
 ### IPv4 (Internet Protocol version 4)
 - **Tamanho:** 32 bits, dividido em 4 octetos (grupos de 8 bits), representados no formato decimal separado por pontos (ex.: `192.168.0.1`).
 - **Estrutura:**
   - **Parte da Rede:** Identifica a rede à qual o dispositivo pertence.
   - **Parte do Host:** Identifica o dispositivo específico dentro da rede.
 - **Classes:**
-  - Classe A: Redes grandes (1.0.0.0 - 126.255.255.255).
-  - Classe B: Redes médias (128.0.0.0 - 191.255.255.255).
-  - Classe C: Redes pequenas (192.0.0.0 - 223.255.255.255).
-  - Classes D e E: Usadas para multicast e pesquisas experimentais.
+  - **Classe A:** Redes grandes (1.0.0.0 - 126.255.255.255).
+  - **Classe B:** Redes médias (128.0.0.0 - 191.255.255.255).
+  - **Classe C:** Redes pequenas (192.0.0.0 - 223.255.255.255).
+  - **Classes D e E:** Usadas para multicast e pesquisas experimentais.
+
+- **Uso do 0 e 255 no IPv4:**
+  - **0:** Em um endereço de rede, o `0` é usado para identificar a rede em si, ou seja, é o endereço de rede que define o início de um intervalo de endereços. Exemplo: `192.168.1.0` é a rede, não um host.
+  - **255:** O `255` é usado no endereço de broadcast, ou seja, é um endereço especial para enviar pacotes a todos os dispositivos de uma rede. Exemplo: `192.168.1.255` envia uma mensagem para todos os dispositivos na rede `192.168.1.0/24`.
 
 ### IPv6 (Internet Protocol version 6)
 - **Tamanho:** 128 bits, representado no formato hexadecimal, separado por dois pontos (ex.: `2001:0db8:85a3:0000:0000:8a2e:0370:7334`).
