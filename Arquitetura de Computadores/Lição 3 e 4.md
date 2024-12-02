@@ -8,3 +8,4 @@ data: 2024-12-02
 
 ## Notas relacionadas
 [[Requisitos - Sistemas Operativos e Redes]]
+[[Topologias de Rede]]
