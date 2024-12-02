@@ -6,7 +6,7 @@ As redes LAN (Local Area Network) geralmente utilizam as topologias de **estrela
 - **Árvore:** Expansão da topologia em estrela, onde múltiplos switches centrais formam uma hierarquia, ideal para redes maiores.
 
 ### WAN - Malha
-As redes WAN (Wide Area Network) frequentemente utilizam a topologia de **malha**:
+As redes WAN (Wide Area Network) utilizam frequentemente a topologia de **malha**:
 - **Malha:** Cada nó está conectado a múltiplos outros nós, garantindo redundância e resiliência. Essa topologia é comum em grandes redes interconectadas, como a Internet.
 
 ---
