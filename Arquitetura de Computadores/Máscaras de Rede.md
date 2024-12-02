@@ -32,13 +32,19 @@ O endereço da rede, após a operação AND, é `192.168.1.0`.
 
 ## Resumo
 
-| Tipo               | Explicação                                           |
-|--------------------|------------------------------------------------------|
-| **Máscara de Rede** | Define quantos bits do IP pertencem à rede e quantos ao host. |
-| **Bits "1"**        | Representam a parte do IP que identifica a rede.    |
-| **Bits "0"**        | Representam a parte do IP que identifica o host.    |
+| Tipo                | Explicação                                                       |
+| ------------------- | ---------------------------------------------------------------- |
+| **Máscara de Rede** | Define quantos bits do IP pertencem à rede e quantos ao host.    |
+| **Bits "1"**        | Representam a parte do IP que identifica a rede.                 |
+| **Bits "0"**        | Representam a parte do IP que identifica o host.                 |
 | **Operação AND**    | A operação **AND** entre o IP e a máscara dá o endereço da rede. |
 
 ### Exemplo Final
 
 Com o IP `192.168.1.100` e a máscara de sub-rede `255.255.255.0`, a operação **AND** resulta no endereço da rede `192.168.1.0`.
+
+| Classe | Máscara       |
+| ------ | ------------- |
+| A      | 255.0.0.0     |
+| B      | 255.255.0.0   |
+| C      | 255.255.255.0 |

@@ -15,3 +15,4 @@ data: 2024-12-02
 [[Classes de IP's]]
 [[Gamas de Endereços IP  por classe]]
 [[Máscaras de Rede]]
+[[Endereços IP - Privados]]
