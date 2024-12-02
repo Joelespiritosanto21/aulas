@@ -9,3 +9,5 @@ data: 2024-12-02
 ## Notas relacionadas
 [[Requisitos - Sistemas Operativos e Redes]]
 [[Topologias de Rede]]
+[[Meios de Transmissão de Redes]]
+[[Tipos de Máquinas]]
