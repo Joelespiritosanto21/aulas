@@ -13,4 +13,3 @@ Configurações limite que o sistema operativo pode suportar, garantindo a estab
 
 O DHCP (Dynamic Host Configuration Protocol) é um protocolo de rede que automatiza a atribuição de endereços IP e outras configurações de rede para dispositivos numa rede. Ele elimina a necessidade de configurar manualmente cada dispositivo, garantindo eficiência e evitando conflitos de endereços IP.
 
-

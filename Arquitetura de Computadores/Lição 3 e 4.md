@@ -7,4 +7,4 @@ data: 2024-12-02
 ## Sumário
 
 ## Notas relacionadas
-[[Requisitos]]
+[[Requisitos - Sistemas Operativos e Redes]]
