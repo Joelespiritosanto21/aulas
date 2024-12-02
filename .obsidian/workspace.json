@@ -11,10 +11,14 @@
             "id": "8f35ad30ba35e6c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física e Química/Exercicios página 113.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Exercicios página 113"
             }
           }
         ]
@@ -224,6 +228,8 @@
   },
   "active": "8f35ad30ba35e6c2",
   "lastOpenFiles": [
+    "Física e Química/Lição 44.md",
+    "Física e Química/Exercicios página 113.md",
     "Português/Lição 48 e 49.md",
     "Português/Para o teste.md",
     "Português/Lição 47.md",
@@ -248,8 +254,6 @@
     "Inglês/Exercises page 176 and 177.md",
     "Untitled.md",
     "Física e Química/Lição 42 e 43.md",
-    "Física e Química/Indução eletromagnética.md",
-    "Física e Química/Faraday.md",
     "Inglês/anexos",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
