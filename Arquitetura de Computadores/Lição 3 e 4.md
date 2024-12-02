@@ -12,3 +12,5 @@ data: 2024-12-02
 [[Meios de Transmissão de Redes]]
 [[Tipos de Máquinas]]
 [[Endereçamento]]
+[[Classes de IP's]]
+[[Gamas de Endereços IP  por classe]]
