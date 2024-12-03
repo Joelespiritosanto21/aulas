@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquitetura de Computadores/Endereços IP - Privados.md",
+                "file": "Área de Integração/Formas de organização de território.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endereços IP - Privados"
+              "title": "Formas de organização de território"
             }
           }
         ],
@@ -243,8 +243,8 @@
   },
   "active": "e4737a827c2c9d1d",
   "lastOpenFiles": [
-    "Arquitetura de Computadores/Lição 3 e 4.md",
     "Arquitetura de Computadores/Endereços IP - Privados.md",
+    "Arquitetura de Computadores/Lição 3 e 4.md",
     "Arquitetura de Computadores/Máscaras de Rede.md",
     "Arquitetura de Computadores/Gamas de Endereços IP  por classe.md",
     "Arquitetura de Computadores/Classes de IP's.md",

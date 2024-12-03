@@ -16,9 +16,9 @@ Os endereços IP privados são atribuídos em diferentes classes, com gamas espe
 
 ### Classe B (172.16.0.0 a 172.31.255.255)
 
-| Classe B               | Gama de Endereços Privados        | Notação CIDR    | Total de Endereços |
-|------------------------|-----------------------------------|-----------------|--------------------|
-| **Classe B**           | 172.16.0.0 - 172.31.255.255       | 172.16.0.0/12   | 1.048.576          |
+| Classe B     | Gama de Endereços Privados  | Notação CIDR  | Total de Endereços |
+| ------------ | --------------------------- | ------------- | ------------------ |
+| **Classe B** | 172.16.0.0 - 172.31.255.255 | 172.16.0.0/12 | 1.048.576          |
 
 - **Descrição:** A classe B fornece um intervalo menor em comparação com a classe A, com **1.048.576** endereços privados possíveis.
 
