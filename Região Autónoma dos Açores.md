@@ -1,0 +1,2 @@
+O arquipélago dos Açores é composto por 9 ilhas, situadas no Oceano Atlântico.
+Política e administrativamente, constituem a RAA. As filhas estão divididas em três grupos: ocidental, central e oriental. O território do arquipélago está divido em 19 concelhos e 156 freguesias.
