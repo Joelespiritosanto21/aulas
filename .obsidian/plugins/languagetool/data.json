@@ -13,5 +13,5 @@
   ],
   "pickyMode": true,
   "motherTongue": "pt",
-  "disabledRules": "FINAL_STOPS,DASH_RULE"
+  "disabledRules": "FINAL_STOPS,DASH_RULE,PUNCTUATION_PARAGRAPH_END"
 }

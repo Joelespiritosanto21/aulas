@@ -1,0 +1,3 @@
+In today's world, sustainable living has become increasingly important. It is a lifestyle aimed at reducing the consumption of Earth's natural resources by individuals or societies. A good way to do it is by using green energy and reducing energy usage.
+
+At my house, I decided to start by green energy. I installed a few solar panels at my home with some long term batteries. This will avoid the usage of the local energy supplier that has a big percentage of non-renewable energy or fossil fuel based energies. of course this has advantages and disadvantages. Some disadvantages are the battery life if we don't take care of it. I need to put distilled water from month to month for the battery to not burn or stop working.
