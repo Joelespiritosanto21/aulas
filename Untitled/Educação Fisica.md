@@ -11,3 +11,4 @@ Em primeiro lugar, as células necessitam de oxigénio para ativar as funções 
 # Processos de controlo de esforço
 
 Este metabolismo acelerado produz, contudo, produtos de eliminação que são removidos pelos pulmões (CO₂) e pelos rins (urina e seus componentes). É por isso que, durante o exercício, a respiração se torna mais rápida e o coração aumenta a sua frequência. Outro produto da atividade das células estimuladas é o calor. A transpiração é o processo que o organismo utiliza para controlar a temperatura através da evaporação do suor.
+
