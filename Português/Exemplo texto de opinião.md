@@ -1,1 +1,1 @@
-A greve é um direito adquirido para todos os trabalhadores num determinado pais ou contexto. Esta forma de protesto é um modo de mostrar à sociedade como um trabalho ou oficio 
+A greve é um direito adquirido para todos os trabalhadores num determinado pais ou contexto. Esta forma de protesto é um modo de mostrar à sociedade como um trabalho ou oficio não está a ser reconhecido, bem pago ou simplesmente não tem regras, ou leis que se ajustem à profissão.
