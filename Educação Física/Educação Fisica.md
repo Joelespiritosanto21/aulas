@@ -12,3 +12,7 @@ Em primeiro lugar, as células necessitam de oxigénio para ativar as funções 
 
 Este metabolismo acelerado produz, contudo, produtos de eliminação que são removidos pelos pulmões (CO₂) e pelos rins (urina e seus componentes). É por isso que, durante o exercício, a respiração se torna mais rápida e o coração aumenta a sua frequência. Outro produto da atividade das células estimuladas é o calor. A transpiração é o processo que o organismo utiliza para controlar a temperatura através da evaporação do suor.
 
+Se os programas de treino estão a ser bem dirigidos, o coração, que também é um músculo, vai adaptar-se ao esforço, procurando economizar o seu trabalho.
+Esta economia é visivel pelo diminuição da frequência cardiaca (FC) em repouso.
+
+Depois de um treino, o organismo leva algum tempo a recuperar e é atraves da frequência cardiaca que podemos controlar essa recuperação e avaliar o maior ou menor efeito do treino.
