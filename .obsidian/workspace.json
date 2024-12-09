@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2dbe59e67686a61f",
+        "id": "49fa178e2c446c97",
         "type": "tabs",
         "children": [
           {
-            "id": "432c7a6be1396ffa",
+            "id": "a24ae86edae814b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 51 e 52.md",
+                "file": "Física e Química/Lição 48.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 51 e 52"
-            }
-          },
-          {
-            "id": "5b51df8a1bde1b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Lição 51 e 52.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lição 51 e 52"
-            }
-          },
-          {
-            "id": "72879e69740a3797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Exemplo texto de opinião.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exemplo texto de opinião"
+              "title": "Lição 48"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,51 +226,13 @@
       "system3-relay:Relay": false
     }
   },
-  "floating": {
-    "id": "e947dca806a37a15",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a7f90c981fc0617d",
-        "type": "window",
-        "children": [
-          {
-            "id": "4779cdcefe3cc99a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f8eba6828867bb7f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Português/Exemplo texto de opinião.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Exemplo texto de opinião"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 117,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 1
-      }
-    ]
-  },
-  "active": "f8eba6828867bb7f",
+  "active": "a24ae86edae814b4",
   "lastOpenFiles": [
+    "Física e Química/Lição 48.md",
+    "Português/Exemplo texto de opinião.md",
     "Português/Lição 51 e 52.md",
     "Português/Lição 53 e 54.md",
     "Educação Física/Educação Fisica.md",
-    "Português/Exemplo texto de opinião.md",
     "Português/Texto de Opinião.md",
     "Português/Lição 50.md",
     "Português/Lição 48 e 49.md",
@@ -323,7 +256,6 @@
     "Arquitetura de Computadores/anexos",
     "Arquitetura de Computadores/Tipos de Máquinas.md",
     "Arquitetura de Computadores/Meios de Transmissão de Redes.md",
-    "Física e Química/Exercicios página 113.md",
     "Inglês/anexos",
     "Português/anexos/Pasted image 20241115125700.png",
     "Português/anexos/Pasted image 20241115121618.png",
