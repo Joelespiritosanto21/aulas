@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 53 e 54.md",
+                "file": "Português/Lição 51 e 52.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 53 e 54"
+              "title": "Lição 51 e 52"
+            }
+          },
+          {
+            "id": "72879e69740a3797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Exemplo texto de opinião.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exemplo texto de opinião"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,7 +255,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "5b51df8a1bde1b15",
+  "active": "72879e69740a3797",
   "lastOpenFiles": [
     "Português/Lição 51 e 52.md",
     "Português/Lição 53 e 54.md",
