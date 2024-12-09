@@ -1,4 +1,4 @@
-# As greves
+ # As greves
 
 **A greve é** um direito adquirido para todos os trabalhadores num determinado pais ou contexto. Esta forma de protesto é um modo de mostrar à sociedade como um trabalho ou oficio não está a ser reconhecido, bem pago ou simplesmente não tem regras, ou leis que se ajustem à profissão. Na minha perspetiva a greve é um modo importante para defender os nossos direitos, **porém**, há aspetos que deixam de ser repensados. **Quando fazer greve? Em que condições? E por quê?**
 
