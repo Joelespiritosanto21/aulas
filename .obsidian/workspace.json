@@ -11,13 +11,14 @@
             "id": "7f7617dba0d101de",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/community-plugins.json",
-                "staged": false
+                "file": "Área de Integração/Formas de organização de território.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (community-plugins.json)"
+              "icon": "lucide-file",
+              "title": "Formas de organização de território"
             }
           }
         ]
@@ -225,7 +226,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bd9d5af4771c149b",
+  "active": "7f7617dba0d101de",
   "lastOpenFiles": [
     "Área de Integração/Formas de organização de território.md",
     "Área de Integração/Como está o país dividido geograficamente.md",
