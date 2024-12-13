@@ -10,16 +10,16 @@ Quando se efetua um trabalho físico, as células ativam-se do estado de repouso
 
 ### Etapas do Controlo de Esforço:
 1. **Oxigenação:**
-   - Os sistemas **respiratório** e **circulatório** fornecem oxigénio aos músculos.  
+   - Os sistemas **respiratório** e **circulatório** fornecem oxigénio aos músculos.
    - Permite que as funções metabólicas suportem atividades contínuas.
 
 2. **Eliminação de Resíduos:**
-   - O metabolismo acelera e produz resíduos eliminados pelo corpo:  
-     - **Pulmões:** Removem dióxido de carbono (CO₂).  
+   - O metabolismo acelera e produz resíduos eliminados pelo corpo:
+     - **Pulmões:** Removem dióxido de carbono (CO₂).
      - **Rins:** Eliminam substâncias através da urina.
 
 3. **Controlo da Temperatura:**
-   - A **transpiração** regula a temperatura corporal através da evaporação do suor.  
+   - A **transpiração** regula a temperatura corporal através da evaporação do suor.
 
 4. **Adaptação do Coração:**
    - Com treino adequado, o coração reduz a frequência em repouso, economizando esforço.
@@ -31,8 +31,8 @@ Quando se efetua um trabalho físico, as células ativam-se do estado de repouso
 A frequência cardíaca é usada para monitorizar a intensidade do esforço e a recuperação após o treino.
 
 ### Cálculo da Frequência Cardíaca:
-- **Frequência Cardíaca Máxima (FCM):** `220 - idade`.  
-- **Frequência Cardíaca em Repouso:** Medida ao acordar, ainda deitado.  
+- **Frequência Cardíaca Máxima (FCM):** `220 - idade`.
+- **Frequência Cardíaca em Repouso:** Medida ao acordar, ainda deitado.
 
 > [!note] **Zonas de Treino**
 > | **Zona**                 | **Cálculo**            | **Descrição**                                |
@@ -43,8 +43,8 @@ A frequência cardíaca é usada para monitorizar a intensidade do esforço e a 
 
 > [!tip] **Como medir a FC após o esforço?**
 > - Medir os batimentos durante:
->   - **6 segundos** → Multiplicar por 10.  
->   - **10 segundos** → Multiplicar por 6.  
+>   - **6 segundos** → Multiplicar por 10.
+>   - **10 segundos** → Multiplicar por 6.
 >   - **15 segundos** → Multiplicar por 4.
 
 ---
@@ -66,21 +66,29 @@ A **Escala de Perceção de Esforço (Borg)** avalia o esforço subjetivo durant
 
 ---
 
-## Tipos de Fadiga
+## Tipos de Fadiga e Concentração Associada
 
 ### Classificação da Fadiga:
-| **Tipo**            | **Descrição**                                                                                     |
-|---------------------|-------------------------------------------------------------------------------------------------|
-| **Ligeira**         | Carga leve; o movimento é seguro e dominado sem erros.                                          |
-| **Grande Fadiga**   | Carga ideal; começam a surgir erros, insegurança e menor qualidade na execução.                 |
-| **Fadiga Exagerada**| Cargas excessivas; perda de coordenação, precisão e qualidade, movimentos vacilantes.           |
+| **Tipo**             | **Descrição**                                                                                     | **Concentração**                            |
+|----------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **Ligeira**          | Carga leve; o movimento é seguro e dominado sem erros.                                            | Elevada: Capacidade plena para tarefas.     |
+| **Grande Fadiga**    | Carga ideal; começam a surgir erros, insegurança e menor qualidade na execução.                   | Moderada: Alguma dificuldade em manter o foco. |
+| **Fadiga Exagerada** | Cargas excessivas; perda de coordenação, precisão e qualidade, movimentos vacilantes.             | Baixa: Concentração comprometida, distrações frequentes. |
 
-### Sintomas de Fadiga:
-1. Sensação de fraqueza e falta de energia.  
-2. Aumento dos erros motores e movimentos imprecisos.  
-3. Dificuldade na recuperação após o esforço.  
-4. Acentuada transpiração e respiração irregular.  
-5. Perda de concentração e coordenação motora.  
+---
+
+## Sintomas de Fadiga
+
+### Sinais Físicos:
+1. Sensação de fraqueza e falta de energia.
+2. Respiração irregular e esforço excessivo.
+3. Sudação intensa e sensação de sobreaquecimento.
+4. Dificuldade em realizar movimentos coordenados.
+
+### Sinais Mentais:
+1. Redução da capacidade de concentração.
+2. Aumento da sensação de frustração.
+3. Desorientação ou lentidão no raciocínio.
 
 ---
 
@@ -101,10 +109,10 @@ Vários fatores podem alterar a frequência cardíaca, mesmo sem relação diret
 
 ## Estratégias para Controlar o Esforço
 
-1. Monitorizar a **frequência cardíaca** com regularidade.  
-2. Usar a **Escala de Borg** para avaliar a perceção subjetiva.  
-3. Ajustar a intensidade com base nas zonas de treino.  
-4. Garantir períodos de recuperação adequados.  
-5. Evitar cargas extremas que conduzam a fadiga exagerada.  
+1. Monitorizar a **frequência cardíaca** com regularidade.
+2. Usar a **Escala de Borg** para avaliar a perceção subjetiva.
+3. Ajustar a intensidade com base nas zonas de treino.
+4. Garantir períodos de recuperação adequados.
+5. Evitar cargas extremas que conduzam a fadiga exagerada.
 
 Estas estratégias ajudam a prevenir riscos para a saúde e a melhorar a eficácia dos programas de treino.
