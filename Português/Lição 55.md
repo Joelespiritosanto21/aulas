@@ -8,3 +8,4 @@ data: 2024-12-13
 - Apresentação do guião para a Oralidade.
 ## Notas relacionadas
 [[Texto Poético]]
+[[Video - Antero de Quantal]]

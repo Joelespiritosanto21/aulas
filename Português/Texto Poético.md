@@ -1,9 +1,9 @@
 # Texto Poético
 
 ## Características
-- :LiVerified: **Linguagem mais metafórica (simbólica)**  
-- :LiVerified: **Escrito em verso**  
-- :LiVerified: **Pode ter rima e uma organização em estrofes**  
+- :LiVerified: **Linguagem mais metafórica (simbólica)**
+- :LiVerified: **Escrito em verso**
+- :LiVerified: **Pode ter rima e uma organização em estrofes**
 
 ---
 
@@ -26,22 +26,22 @@
 
 ## Tipos de Rima
 ### **Rima Interpolada**
-- **a**  
-- **b**  
-- **b**  
-- **a**  
+- **a**
+- **b**
+- **b**
+- **a**
 
 ### **Rima Cruzada**
-- **a**  
-- **b**  
-- **a**  
-- **b**  
+- **a**
+- **b**
+- **a**
+- **b**
 
 ### **Rima Emparelhada**
-- **a**  
-- **a**  
-- **b**  
-- **b**  
+- **a**
+- **a**
+- **b**
+- **b**
 
 ### **Verso Solto ou Branco**
 - **a** (Sem rima associada)
