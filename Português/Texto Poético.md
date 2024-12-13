@@ -1,31 +1,48 @@
 # Texto Poético
 
-:LiVerified: Linguagem mais metafórica (simbólica)
-:LiVerified: Escrito em verso
-:LiVerified: Pode ter rima, pode ter uma organização em estrofes
+## Características
+- :LiVerified: **Linguagem mais metafórica (simbólica)**  
+- :LiVerified: **Escrito em verso**  
+- :LiVerified: **Pode ter rima e uma organização em estrofes**  
 
-Estrofes
--> 1 verso - monóstico
--> 2 versos - dístico
--> 3 versos - terceto
--> 4 versos - quarteto
--> 5 versos - quintilha
--> 6 versos - sextilha
--> 7 versos - sétima
--> 8 versos - oitava
--> 9 versos - nona
--> 10 versos - décia
--> + 10 versos - estrófe irregular
+---
 
-Rima
-a - rima interpolada
-b - rima emparelhada
-b - rima emparelhada
-a - rima interpolada
+## Estruturas de Estrofes
+| Número de Versos | Nome da Estrofe  |
+|------------------|------------------|
+| **1 verso**      | Monóstico        |
+| **2 versos**     | Dístico          |
+| **3 versos**     | Terceto          |
+| **4 versos**     | Quarteto         |
+| **5 versos**     | Quintilha        |
+| **6 versos**     | Sextilha         |
+| **7 versos**     | Sétima           |
+| **8 versos**     | Oitava           |
+| **9 versos**     | Nona             |
+| **10 versos**    | Décima           |
+| **+10 versos**   | Estrófe irregular|
 
-a - rima cruzada
-b - rima cruzada
-a - rima cruzada
-b - rima cruzada
+---
 
-a - verso solto ou branco
+## Tipos de Rima
+### **Rima Interpolada**
+- **a**  
+- **b**  
+- **b**  
+- **a**  
+
+### **Rima Cruzada**
+- **a**  
+- **b**  
+- **a**  
+- **b**  
+
+### **Rima Emparelhada**
+- **a**  
+- **a**  
+- **b**  
+- **b**  
+
+### **Verso Solto ou Branco**
+- **a** (Sem rima associada)
+
