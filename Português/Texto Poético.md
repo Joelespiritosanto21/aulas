@@ -1,3 +1,5 @@
+# Texto Poético
+
 :LiVerified: Linguagem mais metafórica (simbólica)
 :LiVerified: Escrito em verso
 :LiVerified: Pode ter rima, pode ter uma organização em estrofes
