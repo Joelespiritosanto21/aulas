@@ -2,44 +2,109 @@
 
 O aluno conhece processos de controlo do esforço e identifica sinais de fadiga ou inadaptação à exercitação praticada, evitando riscos para a saúde, tais como: dores, mal-estar, dificuldades respiratórias, fadiga e recuperação difícil.
 
-# Processos de controlo de esforço
+---
 
-Quando se efetua um trabalho físico, mesmo algo simples como atravessar uma sala, as células são "ativadas" do seu estado de repouso e, através de um processo complexo, recebem energia adicional.
+## Processos de Controlo do Esforço
 
-Em primeiro lugar, as células necessitam de oxigénio para ativar as funções metabólicas necessárias a uma atividade continuada. Para esse efeito, os **sistemas respiratório** e **circulatório** fornecem sangue com uma elevada percentagem de **oxigénio aos músculos em exercício**.
+Quando se efetua um trabalho físico, as células ativam-se do estado de repouso e recebem energia adicional através de processos metabólicos.
 
-# Processos de controlo de esforço
+### Etapas do Controlo de Esforço:
+1. **Oxigenação:**
+   - Os sistemas **respiratório** e **circulatório** fornecem oxigénio aos músculos.  
+   - Permite que as funções metabólicas suportem atividades contínuas.
 
-Este metabolismo acelerado produz, contudo, produtos de eliminação que são removidos pelos pulmões (CO₂) e pelos rins (urina e seus componentes). É por isso que, durante o exercício, a respiração se torna mais rápida e o coração aumenta a sua frequência. Outro produto da atividade das células estimuladas é o calor. A transpiração é o processo que o organismo utiliza para controlar a temperatura através da evaporação do suor.
+2. **Eliminação de Resíduos:**
+   - O metabolismo acelera e produz resíduos eliminados pelo corpo:  
+     - **Pulmões:** Removem dióxido de carbono (CO₂).  
+     - **Rins:** Eliminam substâncias através da urina.
 
-Se os programas de treino são bem dirigidos, o coração, que também é um músculo, vai adaptar-se ao esforço, procurando economizar o seu trabalho.
-Esta economia é visível pelo diminuição da frequência cardíaca (FC) em repouso.
+3. **Controlo da Temperatura:**
+   - A **transpiração** regula a temperatura corporal através da evaporação do suor.  
 
-Depois de um treino, o organismo leva algum tempo a recuperar e é através da frequência cardíaca que podemos controlar essa recuperação e avaliar o maior ou menor efeito do treino.
+4. **Adaptação do Coração:**
+   - Com treino adequado, o coração reduz a frequência em repouso, economizando esforço.
 
-Durante o desenrolar do programa de treino a frequência cardíaca dá-nos indicações:
-a) sobre a velocidade da recuperação
-b) se a intensidade da tarefa é significativa para provocar melhoria de rendimento.
+---
 
-> [!note] Controlar o Esforço-
-> Para controlar o esforço, a FC deverá ser medida imediatamente após o fim do esforço num periodo de:
->
-> 6 segundos -> multiplicamos esse valor por 10
-> 15 segundos -> multiplicamos esse valor por 4
-> 10 segundos -> multiplicamos esse valor por 6
+## Frequência Cardíaca (FC)
 
-Existem três técnicas para controlar a FC.
+A frequência cardíaca é usada para monitorizar a intensidade do esforço e a recuperação após o treino.
 
-# Como se calcula a frequencia cardiaca máxima?
+### Cálculo da Frequência Cardíaca:
+- **Frequência Cardíaca Máxima (FCM):** `220 - idade`.  
+- **Frequência Cardíaca em Repouso:** Medida ao acordar, ainda deitado.  
 
-Frequencia cardiaca máxima (FCM) -> 220
-Frequencia cardiaca em repouso -> medida ao acordar, ainda na cama
+> [!note] **Zonas de Treino**
+> | **Zona**                 | **Cálculo**            | **Descrição**                                |
+> |--------------------------|------------------------|--------------------------------------------|
+> | FC mínima                | `FCM x 0.60`          | Intensidade leve, ideal para iniciantes.   |
+> | FC ideal (atividade aeróbica) | `FCM x 0.70`          | Zona de treino aeróbico moderado.          |
+> | FC máxima                | `FCM x 0.85`          | Intensidade alta, treino avançado.         |
 
-> [!note] Zona Alvo de Treino-
-> FCM x 0.60 -> frequencia cardiaca minima
-> FCM x 0.70 -> frequencia cardiaca ideal na atividade aeróbica
-> FCM x 0.85 -> frequencia cardiaca maxima
+> [!tip] **Como medir a FC após o esforço?**
+> - Medir os batimentos durante:
+>   - **6 segundos** → Multiplicar por 10.  
+>   - **10 segundos** → Multiplicar por 6.  
+>   - **15 segundos** → Multiplicar por 4.
 
-Indicando em tempo real qual a FC, um monitor de frequência  cardíaca permite ao atleta conhecer o nível de intensidade do esforço e eventualmente adaptá-lo, acelerando ou abrandando o ritmo da corrida, por exemplo, em função do nível de treino em que se encontre.
+---
 
-Outros fatores que fazem variar a frequência cardíaca, sem que isto esteja ligado ao nível de esforço (biorritmo, temperatura exterior e humidade do ar, aptidão física, altitude, ‘stress’, reservas energéticas e de água do organismo, tabaco, cansaço, doença, beta-bloqueantes, etc. Outros métodos de terrenos para controlar o esforço, como a sensação subjetiva de esforço pode ser medida pela escala de Borg.
+## Escala de Borg
+
+A **Escala de Perceção de Esforço (Borg)** avalia o esforço subjetivo durante a atividade física.
+
+| **Nível** | **Perceção de Esforço**           | **Descrição**                           |
+|-----------|-----------------------------------|-----------------------------------------|
+| 6         | Nenhum esforço                   | Repouso absoluto.                      |
+| 7-8       | Muito, muito leve                | Caminhar devagar.                      |
+| 9-10      | Muito leve                       | Atividade fácil, como aquecimento.     |
+| 11-12     | Leve                             | Respiração e esforço ligeiramente aumentados. |
+| 13-14     | Moderado                         | Ritmo constante, desafio razoável.     |
+| 15-16     | Difícil                          | Respiração ofegante, mas sustentável.  |
+| 17-18     | Muito difícil                    | Muito esforço, próximo do limite.      |
+| 19-20     | Máximo esforço                   | Esforço total, insustentável.          |
+
+---
+
+## Tipos de Fadiga
+
+### Classificação da Fadiga:
+| **Tipo**            | **Descrição**                                                                                     |
+|---------------------|-------------------------------------------------------------------------------------------------|
+| **Ligeira**         | Carga leve; o movimento é seguro e dominado sem erros.                                          |
+| **Grande Fadiga**   | Carga ideal; começam a surgir erros, insegurança e menor qualidade na execução.                 |
+| **Fadiga Exagerada**| Cargas excessivas; perda de coordenação, precisão e qualidade, movimentos vacilantes.           |
+
+### Sintomas de Fadiga:
+1. Sensação de fraqueza e falta de energia.  
+2. Aumento dos erros motores e movimentos imprecisos.  
+3. Dificuldade na recuperação após o esforço.  
+4. Acentuada transpiração e respiração irregular.  
+5. Perda de concentração e coordenação motora.  
+
+---
+
+## Fatores que Influenciam a Frequência Cardíaca
+
+Vários fatores podem alterar a frequência cardíaca, mesmo sem relação direta com o esforço físico:
+
+| **Fatores Internos**              | **Fatores Externos**           |
+|-----------------------------------|--------------------------------|
+| Aptidão física                    | Temperatura exterior          |
+| Reservas energéticas e hídricas   | Humidade do ar                |
+| Stress                            | Altitude                      |
+| Cansaço                           | Uso de tabaco ou medicamentos |
+
+> **Nota:** Fatores como doenças ou uso de beta-bloqueantes podem interferir significativamente no controlo da FC.
+
+---
+
+## Estratégias para Controlar o Esforço
+
+1. Monitorizar a **frequência cardíaca** com regularidade.  
+2. Usar a **Escala de Borg** para avaliar a perceção subjetiva.  
+3. Ajustar a intensidade com base nas zonas de treino.  
+4. Garantir períodos de recuperação adequados.  
+5. Evitar cargas extremas que conduzam a fadiga exagerada.  
+
+Estas estratégias ajudam a prevenir riscos para a saúde e a melhorar a eficácia dos programas de treino.
