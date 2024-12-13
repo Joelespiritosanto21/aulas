@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ce99e236ae1f8e2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Video - Antero de Quantal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video - Antero de Quantal"
+            }
+          },
+          {
             "id": "363dc03d0a5162ec",
             "type": "leaf",
             "state": {
@@ -34,22 +48,9 @@
               "icon": "lucide-file",
               "title": "Texto Poético"
             }
-          },
-          {
-            "id": "3320d7173645eeb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Video - Antero de Quantal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Video - Antero de Quantal"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,11 +255,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "5090d8ed59b2ff51",
+  "active": "ce99e236ae1f8e2c",
   "lastOpenFiles": [
+    "Português/Lição 55.md",
     "Português/Video - Antero de Quantal.md",
     "Português/Texto Poético.md",
-    "Português/Lição 55.md",
     "Português/Lição 53 e 54.md",
     "Português/Lição 51 e 52.md",
     "Educação Física/Educação Fisica.md",
