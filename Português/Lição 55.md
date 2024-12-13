@@ -1,8 +1,5 @@
 ---
-tags:
-  - lição
-  - port
-  - port-modulo-6
+tags: [lição, port, port-modulo-6]
 data: 2024-12-13
 2-hours: false
 ---
@@ -10,3 +7,4 @@ data: 2024-12-13
 ## Sumário
 - Apresentação do guião para a Oralidade.
 ## Notas relacionadas
+[[Texto Poético]]

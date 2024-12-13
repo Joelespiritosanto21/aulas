@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a24ae86edae814b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Lição 53 e 54.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lição 53 e 54"
-            }
-          },
-          {
             "id": "5090d8ed59b2ff51",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Lição 55"
+            }
+          },
+          {
+            "id": "706dab747bca3cf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Texto Poético.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Texto Poético"
             }
           }
         ],
@@ -241,10 +241,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "5090d8ed59b2ff51",
+  "active": "706dab747bca3cf6",
   "lastOpenFiles": [
-    "Português/Lição 53 e 54.md",
     "Português/Lição 55.md",
+    "Português/Texto Poético.md",
+    "Português/Lição 53 e 54.md",
     "Português/Lição 51 e 52.md",
     "Educação Física/Educação Fisica.md",
     "Arquitetura de Computadores/Classes de IP's.md",
@@ -269,7 +270,6 @@
     "Área de Integração/Como está o país dividido geograficamente.md",
     "Área de Integração/Formas de organização de território.md",
     "Arquitetura de Computadores/Endereços IP - Privados.md",
-    "Arquitetura de Computadores/Máscaras de Rede.md",
     "Arquitetura de Computadores/anexos",
     "Inglês/anexos",
     "Português/anexos/Pasted image 20241115125700.png",
