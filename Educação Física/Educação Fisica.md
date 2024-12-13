@@ -69,11 +69,11 @@ A **Escala de Perceção de Esforço (Borg)** avalia o esforço subjetivo durant
 ## Tipos de Fadiga e Concentração Associada
 
 ### Classificação da Fadiga:
-| **Tipo**             | **Descrição**                                                                                     | **Concentração**                            |
-|----------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------|
-| **Ligeira**          | Carga leve; o movimento é seguro e dominado sem erros.                                            | Elevada: Capacidade plena para tarefas.     |
-| **Grande Fadiga**    | Carga ideal; começam a surgir erros, insegurança e menor qualidade na execução.                   | Moderada: Alguma dificuldade em manter o foco. |
-| **Fadiga Exagerada** | Cargas excessivas; perda de coordenação, precisão e qualidade, movimentos vacilantes.             | Baixa: Concentração comprometida, distrações frequentes. |
+| **Tipo**             | **Descrição**                                                                         | **Concentração**                                         | Prestação                                                                          | Disposição                                                                            |
+| -------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Ligeira**          | Carga leve; o movimento é seguro e dominado sem erros.                                | Elevada: Capacidade plena para tarefas.                  | Desejo de continuar o treino.                                                      | Entusiasmo, alegria, disposição para a vida                                           |
+| **Grande Fadiga**    | Carga ideal; começam a surgir erros, insegurança e menor qualidade na execução.       | Moderada: Alguma dificuldade em manter o foco.           | Diminuição do trabalho. Desejo de continuar o treino, depois de um longo descanso. | Um pouco baixa, mas boa, quando os resultados do treino correspondem às expectativas. |
+| **Fadiga Exagerada** | Cargas excessivas; perda de coordenação, precisão e qualidade, movimentos vacilantes. | Baixa: Concentração comprometida, distrações frequentes. | Desejo de suspender o treino, após descanso absoluto. Tendência a ficar "devendo". | Advento de dúvida sobre o valor e sentido do treino. Receio de novos esforços.        |
 
 ---
 
