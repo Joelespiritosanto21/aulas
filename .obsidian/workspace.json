@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Educação Fisica"
             }
+          },
+          {
+            "id": "b930f06a624335fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educação Física/Análise SOWT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Análise SOWT"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +241,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6e3032c62c31959e",
+  "active": "b930f06a624335fb",
   "lastOpenFiles": [
+    "Educação Física/Educação Fisica.md",
+    "Educação Física/Análise SOWT.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
     "Inglês/Lição 52 e 53.md",
     "Inglês/Lição 54 e 55.md",
     "Inglês/Lição 51.md",
@@ -236,11 +256,9 @@
     "Português/Texto Poético.md",
     "Português/Lição 55.md",
     "Inglês/Text translation page 142.md",
-    "Untitled 1.md",
     "Área de Integração/Formas de organização de território.md",
     "Área de Integração/Como está o país dividido geograficamente.md",
-    "Untitled.md",
-    "Região Autónoma dos Açores.md",
+    "Área de Integração/Região Autónoma dos Açores.md",
     "Português/Texto de Opinião.md",
     "Português/Para o teste.md",
     "Português/Lição 53 e 54.md",
@@ -253,8 +271,6 @@
     "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md",
     "Inglês/anexos",
     "Inglês/Written Composition - Sustainable Living.md",
-    "Inglês/Untitled.md",
-    "Inglês/Lição 49 e 50.md",
     "Educação Física",
     "Arquitetura de Computadores/anexos",
     "Arquitetura de Computadores",
@@ -273,7 +289,6 @@
     "Área de Integração/Nuvem de palavras sobre a família.canvas",
     "Português/Untitled.canvas",
     "Português/Tipos de texto.canvas",
-    "Untitled.canvas",
     "Português/Lição 33 & 34.md.fdmdownload",
     "Português/Geração de 70.md.fdmdownload",
     "Imagens/Critérios de avaliação.png",
