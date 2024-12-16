@@ -118,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matemática/Lição 19 e 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lição 19 e 20"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matemática/Lição 19 e 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lição 19 e 20"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,21 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Educação Física/Educação Fisica.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Educação Fisica"
-            }
-          },
-          {
-            "id": "f3fc8d7d7fd97a3f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -215,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -241,10 +227,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "5a613075e233a0af",
+  "active": "bd9d5af4771c149b",
   "lastOpenFiles": [
-    "Português/Lição 56 e 57.md",
     "Português/O Palácio da Ventura.md",
+    "Português/Lição 56 e 57.md",
     "Português/Soneto.md",
     "Português/anexos/Soneto 2024-12-16 12.04.55.excalidraw.md",
     "Português/Lição 55.md",
