@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb90a80a876a1980",
+        "id": "ad60b7627911ac53",
         "type": "tabs",
         "children": [
           {
-            "id": "6dd6d1a19466fc12",
+            "id": "e3019b9551ce3c33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,51 @@
               "icon": "lucide-file",
               "title": "Lição 56 e 57"
             }
+          },
+          {
+            "id": "6cc2b82b8ad39161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Lição 55.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lição 55"
+            }
+          },
+          {
+            "id": "79de9b9eddc7fe5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Video - Antero de Quental.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video - Antero de Quental"
+            }
+          },
+          {
+            "id": "55b48d48d3a72040",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Soneto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soneto"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "soneto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,11 +269,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6dd6d1a19466fc12",
+  "active": "79de9b9eddc7fe5e",
   "lastOpenFiles": [
-    "Português/Video - Antero de Quental.md",
     "Português/Lição 55.md",
+    "Português/Texto Poético.md",
     "Português/Lição 56 e 57.md",
+    "Português/Soneto.md",
+    "Português/Video - Antero de Quental.md",
     "Área de Integração/Apelido.canvas",
     "Educação Física/Análise SOWT.md",
     "Educação Física/Educação Fisica.md",
@@ -241,7 +286,6 @@
     "Inglês/Lição 54 e 55.md",
     "Inglês/Lição 51.md",
     "Inglês/Listening activities - _Hanging out_.md",
-    "Português/Texto Poético.md",
     "Inglês/Text translation page 142.md",
     "Área de Integração/Formas de organização de território.md",
     "Área de Integração/Como está o país dividido geograficamente.md",
@@ -255,7 +299,6 @@
     "Português/Lição 47.md",
     "Português/Exercicios pág. 209.md",
     "Português/Exemplo texto de opinião.md",
-    "Inglês/anexos/Lição 47 e 48 2024-11-27 14.46.42.excalidraw.md",
     "Inglês/anexos",
     "Educação Física",
     "Arquitetura de Computadores/anexos",
