@@ -11,10 +11,14 @@
             "id": "7bcff6d855d15adf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Área de Integração/Análise SOWT.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Análise SOWT"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "soneto",
+                "query": "anális",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +212,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "bd9d5af4771c149b",
+  "active": "f00a803fd200fc2d",
   "lastOpenFiles": [
     "Português/O Palácio da Ventura.md",
     "Português/Lição 56 e 57.md",
@@ -218,7 +222,7 @@
     "Português/Video - Antero de Quental.md",
     "Português/Texto Poético.md",
     "Área de Integração/Apelido.canvas",
-    "Educação Física/Análise SOWT.md",
+    "Área de Integração/Análise SOWT.md",
     "Educação Física/Educação Fisica.md",
     "Untitled.md",
     "Untitled.canvas",
