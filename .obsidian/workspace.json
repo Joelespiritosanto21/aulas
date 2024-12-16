@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "Soneto"
             }
-          },
-          {
-            "id": "ceb246bdb7d5d06f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Português/anexos/Soneto 2024-12-16 12.04.55.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Soneto 2024-12-16 12.04.55.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,10 +241,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ceb246bdb7d5d06f",
+  "active": "55b48d48d3a72040",
   "lastOpenFiles": [
-    "Português/Soneto.md",
     "Português/anexos/Soneto 2024-12-16 12.04.55.excalidraw.md",
+    "Português/Soneto.md",
     "Português/Lição 56 e 57.md",
     "Português/Lição 55.md",
     "Português/Video - Antero de Quental.md",
