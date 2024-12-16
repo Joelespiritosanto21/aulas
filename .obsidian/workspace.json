@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "645cd429c9a4bcab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Português/Video - Antero de Quental.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Video - Antero de Quental"
+            }
+          },
+          {
             "id": "6dd6d1a19466fc12",
             "type": "leaf",
             "state": {
@@ -255,7 +269,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6dd6d1a19466fc12",
+  "active": "645cd429c9a4bcab",
   "lastOpenFiles": [
     "Português/Lição 55.md",
     "Português/Lição 56 e 57.md",
