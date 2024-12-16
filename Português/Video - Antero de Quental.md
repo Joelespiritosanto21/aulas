@@ -18,7 +18,7 @@
 - **1874**: Começa a padecer de uma grave doença nervosa.
 - **1878–1879**: Candidata-se a deputado pelo partido republicano.
 - **1886**: Publica *Sonetos Completos*.
-- **1891**: A doença agrava-se, culminando no suicídio a 11 de setembro em Ponta Delgada.
+- **1891**: A doença agrava-se, culminando no suicídio, a tiro, a 11 de setembro em Ponta Delgada.
 
 ---
 
