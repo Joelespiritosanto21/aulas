@@ -7,4 +7,5 @@
 | ------------- | -------------------------------- |
 | Fase Luminosa | Esperança e a busca por um ideal |
 | Fase Sombria  | Angústia existencial             |
-![[Soneto 2024-12-16 12.04.55.excalidraw]]
+![[Soneto 2024-12-16 12.04.55.excalidraw|100%]]
+
