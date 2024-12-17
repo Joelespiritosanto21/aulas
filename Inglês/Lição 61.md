@@ -1,11 +1,8 @@
 ---
-tags:
-  - lição
-  - inglês-módulo-7
+tags: [lição, inglês-módulo-7]
 data: 2024-12-17
 2-hours: false
 ---
-
 
 ## Sumário
 - Module 7: Young people and consumerism.

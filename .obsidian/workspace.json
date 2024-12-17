@@ -98,8 +98,7 @@
               "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,7 +227,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "fa687c3fc3da88c4",
+  "active": "f00a803fd200fc2d",
   "lastOpenFiles": [
     "Inglês/Lição 54 e 55.md",
     "Inglês/Lição 61.md",
