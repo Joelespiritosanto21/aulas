@@ -16,3 +16,4 @@ data: 2024-12-02
 [[Gamas de Endereços IP  por classe]]
 [[Máscaras de Rede]]
 [[Endereços IP - Privados]]
+[[Rede Local - Instalação]]
