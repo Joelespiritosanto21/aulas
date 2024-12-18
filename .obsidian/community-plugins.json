@@ -11,5 +11,6 @@
   "obsidian-discordrpc",
   "obsidian-git",
   "system3-relay",
-  "vault-full-statistics"
+  "vault-full-statistics",
+  "custom-font-loader"
 ]

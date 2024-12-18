@@ -1,0 +1,7 @@
+{
+  "font_folder": ".obsidian/fonts/",
+  "font": "Inter.ttf",
+  "force_mode": true,
+  "custom_css_mode": true,
+  "custom_css": ":root * {\n\t\t--font-default: Inter;\n\t\t--default-font: Inter;\n\t\t--font-family-editor: Inter;\n\t\t--font-monospace-default: Inter,\n\t\t--font-interface-override: Inter,\n\t\t--font-text-override: Inter,\n\t\t--font-monospace-override: Inter,\t\n\t}\n"
+}
