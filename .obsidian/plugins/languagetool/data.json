@@ -9,7 +9,10 @@
     "ca": "ca-ES"
   },
   "dictionary": [
-    "mortem"
+    "mortem",
+    "Active",
+    "Directory",
+    "LDAP"
   ],
   "pickyMode": true,
   "motherTongue": "pt",
