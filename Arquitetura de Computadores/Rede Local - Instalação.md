@@ -4,19 +4,19 @@
 
 As redes baseadas em servidores são ideais para ambientes com mais de 10 computadores. Caracterizam-se pelas seguintes propriedades:
 
-- **Estrutura Centralizada:**  
+- **Estrutura Centralizada:**
   Possuem um ou mais servidores dedicados que centralizam os recursos partilhados.
 
-- **Escalabilidade:**  
+- **Escalabilidade:**
   Adequadas para ambientes de maior dimensão, com múltiplos utilizadores.
 
-- **Gestão de Acessos:**  
+- **Gestão de Acessos:**
   Oferecem maior controle sobre os níveis de acesso aos servidores e aos recursos.
 
-- **Administrador de Rede:**  
+- **Administrador de Rede:**
   A presença de um administrador dedicado é essencial para gerir a rede, configurar servidores e manter a segurança.
 
-- **Facilidade para Utilizadores:**  
+- **Facilidade para Utilizadores:**
   Os utilizadores finais não precisam de formação aprofundada, pois as operações principais são geridas centralmente.
 
 ---
@@ -25,19 +25,19 @@ As redes baseadas em servidores são ideais para ambientes com mais de 10 comput
 
 Os servidores numa rede local podem desempenhar funções específicas, dependendo das necessidades da organização. Alguns exemplos incluem:
 
-1. **Servidores de Aplicação:**  
-   Hospedam e gerem aplicações usadas por utilizadores da rede.  
+1. **Servidores de Aplicação:**
+   Hospedam e gerem aplicações usadas por utilizadores da rede.
    Exemplo: ERP, software de gestão empresarial.
 
-2. **Servidores de Arquivo e Impressão:**  
+2. **Servidores de Arquivo e Impressão:**
    Responsáveis pelo armazenamento de documentos e pela gestão de impressoras partilhadas.
 
-3. **Servidores de Correio:**  
-   Gerem a comunicação por e-mail entre os utilizadores.  
+3. **Servidores de Correio:**
+   Gerem a comunicação por e-mail entre os utilizadores.
    Exemplo: Microsoft Exchange, Postfix.
 
-4. **Servidores de Serviços de Diretório:**  
-   Permitem a autenticação e gestão centralizada de utilizadores, dispositivos e recursos.  
+4. **Servidores de Serviços de Diretório:**
+   Permitem a autenticação e gestão centralizada de utilizadores, dispositivos e recursos.
    Exemplo: Active Directory, LDAP.
 
 ---
