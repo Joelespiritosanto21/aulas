@@ -1,23 +1,23 @@
-1 - jeans
-2 - skirt
-3 - shoes
-4 - boots
-5 - belt
-6 - shirt
-7 - gloves
-8 - coat
-9 - handbag
-10 - pants
-11 - sweater
-12 - shorts
-13 - trainers
-14 - suit
-15 - flipflopts
-16 - necklace
-17 - jacket
-18 - bracelets
-19 - tie
-20 - scarf
-21 - raincoat
-22 - dress
-23 - sunglasses
+1. Jeans  
+2. Skirt  
+3. Shoes  
+4. Boots  
+5. Belt  
+6. Shirt  
+7. Gloves  
+8. Coat  
+9. Handbag  
+10. Pants  
+11. Sweater  
+12. Shorts  
+13. Trainers  
+14. Suit  
+15. Flip-flops  
+16. Necklace  
+17. Jacket  
+18. Bracelets  
+19. Tie  
+20. Scarf  
+21. Raincoat  
+22. Dress  
+23. Sunglasses  
