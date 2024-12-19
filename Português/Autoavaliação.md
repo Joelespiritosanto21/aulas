@@ -4,3 +4,5 @@
 4 - Escrita (15%) -> 14.95
 5 - Relacionamento Interpessoal (10%)-> 18
 6 - Oralidade (30%) -> 14.08
+
+Nota final -> 12.30
