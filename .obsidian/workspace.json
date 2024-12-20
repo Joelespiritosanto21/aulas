@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Lição 64 e 65"
             }
+          },
+          {
+            "id": "57f071683b9dc8b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglês/Exercise - Describe your partner.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise - Describe your partner"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,9 +227,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "7ed85fcec8194e36",
+  "active": "57f071683b9dc8b4",
   "lastOpenFiles": [
     "Inglês/Lição 64 e 65.md",
+    "Inglês/Exercise - Describe your partner.md",
     "Português/Lição 58 e 59.md",
     "Português/Autoavaliação.md",
     "Português/Lição 60.md",
@@ -241,7 +257,6 @@
     "Untitled.canvas",
     "Untitled 1.md",
     "Inglês/Lição 52 e 53.md",
-    "Inglês/Lição 51.md",
     "Inglês/anexos",
     "Educação Física",
     "Arquitetura de Computadores/anexos",
