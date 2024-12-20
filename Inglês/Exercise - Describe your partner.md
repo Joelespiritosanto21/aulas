@@ -1,1 +1,1 @@
-Tiago's wearing black jeans with a brown, yellow and black jacket and brown sport shoes. 
+Tiago's wearing black jeans with a brown, yellow and black jacket and brown sport shoes.
