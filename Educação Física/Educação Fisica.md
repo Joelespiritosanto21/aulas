@@ -51,7 +51,7 @@ A frequência cardíaca é usada para monitorizar a intensidade do esforço e a 
 
 ## Escala de Borg
 
-A **Escala de Perceção de Esforço (Borg)** avalia o esforço subjetivo durante a atividade física.
+A **Escala de Percepção de Esforço (Borg)** avalia o esforço subjetivo durante a atividade física.
 
 | **Nível** | **Perceção de Esforço**           | **Descrição**                           |
 |-----------|-----------------------------------|-----------------------------------------|
