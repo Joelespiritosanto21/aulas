@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a18394388fb0d9b",
+        "id": "6d922b4e6a4a3968",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5bf1d35f33fc49",
+            "id": "7fb12fd15412c1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Lição 60.md",
+                "file": "Português/Lição 61 e 63.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 60"
+              "title": "Lição 61 e 63"
             }
           }
         ]
@@ -213,15 +213,16 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6d5bf1d35f33fc49",
+  "active": "7fb12fd15412c1c6",
   "lastOpenFiles": [
+    "Português/Lição 61 e 63.md",
+    "Português/Lição 60.md",
     "Português/Lição 61 e 62.md",
     "Educação Física/Educação Fisica.md",
     "Inglês/Lição 64 e 65.md",
     "Inglês/Exercise - Describe your partner.md",
     "Português/Lição 58 e 59.md",
     "Português/Autoavaliação.md",
-    "Português/Lição 60.md",
     "Português/Lição 56 e 57.md",
     "Inglês/Exercises page 12 e 13.md",
     "Inglês/Lição 62 e 63.md",
@@ -242,7 +243,6 @@
     "Área de Integração/Apelido.canvas",
     "Untitled.md",
     "Untitled.canvas",
-    "Untitled 1.md",
     "Inglês/anexos",
     "Educação Física",
     "Arquitetura de Computadores/anexos",
