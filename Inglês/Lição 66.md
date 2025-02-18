@@ -8,3 +8,4 @@ data: 2025-02-18
 - Reviewing the comparative and superlative
 ## Notas relacionadas
 [[Comparative and Superlative]]
+[[Exercises lesson 66]]

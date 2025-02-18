@@ -6,3 +6,4 @@
 | irregular        | good - better than              |
 | irregular        | bad - worse                     |
 | irregular        | far - further                   |
+
