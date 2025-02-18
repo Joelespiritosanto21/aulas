@@ -20,10 +20,18 @@
 11. Today weather is **hotter** than yesterday.
 12. Jack is **taller** than Mike.
 
-# Section C . Superlative
+# Section C - Superlative
 
-1. She is **the most beautifull** girl I've ever seen.
+1. She is **the most beautiful** girl I've ever seen.
 2. Jack is **the worst** singer in the band.
 3. He is **the laziest** student in class.
 4. Which is **the richest** country in the world?
 5. This is **the most expensive** mobile phone I've ever seen.
+6. It's **the saddest** movie I've ever seen.
+7. Which was **the happiest** day in your life?
+8. Michael is **the best** student in my class.
+
+# Section D - Choosing the correct option
+1. b
+2. b
+3. a
