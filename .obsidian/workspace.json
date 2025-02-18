@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d7bf6182980c6138",
+        "id": "396c9f1fda711e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "420aa3b9850a0f63",
+            "id": "f397590339454bb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inglês/Lição 66.md",
+                "file": "SIBD/Sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lição 66"
-            }
-          },
-          {
-            "id": "8e63c922f72a6e00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglês/Exercises lesson 66.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exercises lesson 66"
+              "title": "Sistema"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +213,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8e63c922f72a6e00",
+  "active": "f397590339454bb7",
   "lastOpenFiles": [
-    "Inglês/Exercises lesson 66.md",
+    "SIBD/Normalização.md",
+    "SIBD/Evolução dos Sistemas.canvas",
     "Inglês/Lição 66.md",
+    "Inglês/Exercises lesson 66.md",
     "Inglês/Comparative and Superlative.md",
     "Educação Física/Educação Fisica.md",
     "Português/Lição 63 e 64.md",
@@ -255,7 +242,6 @@
     "Área de Integração/Análise SOWT.md",
     "Português/O Palácio da Ventura.md",
     "Português/Soneto.md",
-    "Português/anexos/Soneto 2024-12-16 12.04.55.excalidraw.md",
     "Área de Integração/Apelido.canvas",
     "Untitled.canvas",
     "Inglês/anexos",
@@ -282,7 +268,6 @@
     "Imagens/Critérios de avaliação.png",
     "Matemática/anexos/Pasted image 20241001101101.png",
     "Matemática/anexos/Pasted image 20241001100448.png",
-    "SIBD/Evolução dos Sistemas.canvas",
     "Inglês/Teenagers References.canvas",
     "SIBD/Noção de Sistemas.canvas"
   ]
