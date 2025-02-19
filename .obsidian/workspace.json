@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "862b7f6356560d0b",
+        "id": "f5591bed2e7eb84d",
         "type": "tabs",
         "children": [
           {
-            "id": "73674c5c03437a17",
+            "id": "981cc1d269df3450",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Inglês/Exercises lesson 67&68.md",
-                "staged": false
+                "file": "Português/Lição 65.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Exercises lesson 67&68)"
+              "icon": "lucide-file",
+              "title": "Lição 65"
             }
           }
         ]
@@ -212,7 +213,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "73674c5c03437a17",
+  "active": "981cc1d269df3450",
   "lastOpenFiles": [
     "Português/Lição 65.md",
     "Português/Lição 63.md",
