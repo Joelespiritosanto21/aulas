@@ -5,5 +5,6 @@ data: 2025-02-19
 ---
 
 ## Sumário
-- 
+- Apresentação da grelha de avaliação.
+- Estudo para as apresentações orais.
 ## Notas relacionadas
