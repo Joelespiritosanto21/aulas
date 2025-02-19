@@ -32,6 +32,16 @@
 8. Michael is **the best** student in my class.
 
 # Section D - Choosing the correct option
-1. b
-2. b
-3. a
+1. B
+2. B
+3. A
+4. B
+5. A
+6. A
+7. B
+8. B
+9. C
+10. B
+11. A
+12. A
+
