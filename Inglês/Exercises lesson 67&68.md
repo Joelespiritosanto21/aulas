@@ -1,4 +1,4 @@
-# Section A - 
+# Section A -
 
 | Prefixes | Word             | Result           |
 | -------- | ---------------- | ---------------- |
@@ -15,7 +15,7 @@
 | post     | war              | post-war         |
 | mono     | chrome           | monochrome       |
 
-# Section B - 
+# Section B -
 1. Responsibility
 2. consciousness
 3. availability
@@ -27,7 +27,7 @@
 9. humiliation
 10. permition
 
-# Section C - 
+# Section C -
 
 | Verbs    | Nouns          |
 | -------- | -------------- |
@@ -46,9 +46,9 @@
 1. toothpaste
 2. haircut
 3. dry-up
-4. 
-5. 
+4.
+5.
 6. washing-tank
-7. 
+7.
 8. sunflower
 9. headache

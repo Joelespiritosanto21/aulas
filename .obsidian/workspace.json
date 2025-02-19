@@ -4,39 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "9935d1d12759975c",
+        "id": "862b7f6356560d0b",
         "type": "tabs",
         "children": [
           {
-            "id": "e8aaef4f78c646ec",
+            "id": "73674c5c03437a17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inglês/Lição 67 e 68.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lição 67 e 68"
-            }
-          },
-          {
-            "id": "24dd23dc8e728c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Inglês/Exercises lesson 67&68.md",
-                "mode": "source",
-                "source": false
+                "staged": false
               },
-              "icon": "lucide-file",
-              "title": "Exercises lesson 67&68"
+              "icon": "git-pull-request",
+              "title": "Diff View (Exercises lesson 67&68)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,10 +212,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "24dd23dc8e728c5c",
+  "active": "73674c5c03437a17",
   "lastOpenFiles": [
-    "Inglês/Exercises lesson 67&68.md",
+    "Português/Lição 65.md",
+    "Português/Lição 63.md",
     "Inglês/Lição 67 e 68.md",
+    "Inglês/Exercises lesson 67&68.md",
     "Inglês/Lição 66.md",
     "Inglês/Exercises lesson 66.md",
     "SIBD/Sistema.md",
@@ -255,8 +241,6 @@
     "Física e Química/Correção de ficha de trabalho som.md",
     "Arquitetura de Computadores/Rede Local - Instalação.md",
     "Arquitetura de Computadores/Lição 3 e 4.md",
-    "Inglês/Lição 54 e 55.md",
-    "Inglês/Lição 61.md",
     "Área de Integração/Apelido.canvas",
     "Untitled.canvas",
     "Inglês/anexos",
