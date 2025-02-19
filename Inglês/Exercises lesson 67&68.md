@@ -48,7 +48,7 @@
 3. dry-up
 4. 
 5. 
-6. 
+6. washing-tank
 7. 
-8. 
+8. sunflower
 9. headache
