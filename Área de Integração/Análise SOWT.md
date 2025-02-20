@@ -6,12 +6,12 @@ Santa Maria da Feira é uma região rica em história, cultura e com uma localiz
 ---
 
 ## Pontos Fortes (Strengths)
-| **Categoria**                     | **Descrição**                                                                 |
-|-----------------------------------|-------------------------------------------------------------------------------|
+| **Categoria**                       | **Descrição**                                                                   |
+| ----------------------------------- | ------------------------------------------------------------------------------- |
 | **Património Cultural e Histórico** | Castelo de Santa Maria da Feira e eventos como a Viagem Medieval e Imaginarius. |
-| **Localização Estratégica**        | Proximidade ao Porto, boa ligação rodoviária e ferroviária.                    |
-| **Economia Dinâmica**              | Indústria diversificada (cortiça e calçado) e incentivo ao empreendedorismo.   |
-| **Qualidade de Vida**              | Espaços verdes e sentido de comunidade.                                       |
+| **Localização Estratégica**         | Proximidade ao Porto, boa ligação rodoviária e ferroviária.                     |
+| **Economia Dinâmica**               | Indústria diversificada (cortiça e calçado) e incentivo ao empreendedorismo.    |
+| **Qualidade de Vida**               | Espaços verdes e sentido de comunidade.                                         |
 
 ---
 
