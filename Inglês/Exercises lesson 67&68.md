@@ -10,8 +10,8 @@
 | de       | decentralization | decentralization |
 | un       | employment       | unemployment     |
 | im       | partiality       | impartiality     |
-| pre      | script           | pre-script       |
-| super    | school           | superschool      |
+| pre      | school           | pre-school       |
+| super    | script           | superscript      |
 | post     | war              | post-war         |
 | mono     | chrome           | monochrome       |
 
@@ -25,7 +25,7 @@
 7. activity
 8. selfishness
 9. humiliation
-10. permition
+10. permission
 
 # Section C -
 
