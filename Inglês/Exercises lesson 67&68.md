@@ -45,10 +45,11 @@
 
 1. toothpaste
 2. haircut
-3. dry-up
-4.
-5.
-6. washing-tank
-7.
+3. drycleaning
+4. outcast
+5. watertank
+6. washing up
+7. burglar alarm
 8. sunflower
 9. headache
+
